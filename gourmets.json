@@ -1098,5 +1098,433 @@
     [
         "Zeenana",
         100
+    ],
+    [
+        "Anchovies",
+        180
+    ],
+    [
+        "Banan",
+        180
+    ],
+    [
+        "Bargella Root",
+        180
+    ],
+    [
+        "Bargil Surprise",
+        180
+    ],
+    [
+        "Bargjelly Sundae",
+        180
+    ],
+    [
+        "Blairnut",
+        180
+    ],
+    [
+        "BLT sandwich",
+        180
+    ],
+    [
+        "BluePepper",
+        180
+    ],
+    [
+        "Boiled Sea Serpent",
+        180
+    ],
+    [
+        "Calcium Supplement",
+        180
+    ],
+    [
+        "Carburnup Pepper",
+        180
+    ],
+    [
+        "Cheesy Cod and Tofu Burger",
+        180
+    ],
+    [
+        "Chocolate Roll",
+        180
+    ],
+    [
+        "Clam Chops",
+        180
+    ],
+    [
+        "Cocoa Juppie",
+        180
+    ],
+    [
+        "Combomelon Plant",
+        180
+    ],
+    [
+        "Coral Beef",
+        180
+    ],
+    [
+        "Coral Salad",
+        180
+    ],
+    [
+        "Coral Sponge Cake",
+        180
+    ],
+    [
+        "Crystal Pop",
+        180
+    ],
+    [
+        "Dargil Meat",
+        180
+    ],
+    [
+        "Elppa",
+        180
+    ],
+    [
+        "Escargot",
+        180
+    ],
+    [
+        "Fava Beans",
+        180
+    ],
+    [
+        "Felrum Jelly Cube",
+        180
+    ],
+    [
+        "Fiery Faerie Chicken Nuggets",
+        180
+    ],
+    [
+        "Fish Eggs",
+        180
+    ],
+    [
+        "Fishy Nibbles",
+        180
+    ],
+    [
+        "Fizzy Quiggle Drink",
+        180
+    ],
+    [
+        "Flaming Bomberry",
+        180
+    ],
+    [
+        "Foozette",
+        180
+    ],
+    [
+        "Fresh Shark Fin",
+        180
+    ],
+    [
+        "Frozen fish Gel",
+        180
+    ],
+    [
+        "FruitMallow",
+        180
+    ],
+    [
+        "Fungi Fruit",
+        180
+    ],
+    [
+        "Funnydew Melon",
+        180
+    ],
+    [
+        "Globlin",
+        180
+    ],
+    [
+        "Golden Carrot",
+        180
+    ],
+    [
+        "Gooseberries",
+        180
+    ],
+    [
+        "Gruish Melon",
+        180
+    ],
+    [
+        "Gummy Amoeba",
+        180
+    ],
+    [
+        "Gummy Star",
+        180
+    ],
+    [
+        "Heartatoe",
+        180
+    ],
+    [
+        "Iced Borovan Cake",
+        180
+    ],
+    [
+        "Icy Negg",
+        180
+    ],
+    [
+        "Iron Supplement",
+        180
+    ],
+    [
+        "Juicy Melon",
+        180
+    ],
+    [
+        "Kabuggles",
+        180
+    ],
+    [
+        "Kelp",
+        180
+    ],
+    [
+        "Kelp Samosa",
+        180
+    ],
+    [
+        "Koyle",
+        180
+    ],
+    [
+        "Lemaniac",
+        180
+    ],
+    [
+        "Lime Starfish",
+        180
+    ],
+    [
+        "Lobsterclaw Salad",
+        180
+    ],
+    [
+        "MechaBerries",
+        180
+    ],
+    [
+        "Melow",
+        180
+    ],
+    [
+        "Merryberry",
+        180
+    ],
+    [
+        "Minty Shrimp",
+        180
+    ],
+    [
+        "Nurako",
+        180
+    ],
+    [
+        "Orange Snow Puff",
+        180
+    ],
+    [
+        "Organic Olives",
+        180
+    ],
+    [
+        "Organic Pear",
+        180
+    ],
+    [
+        "Organic Red Grapes",
+        180
+    ],
+    [
+        "Organic Tomato",
+        180
+    ],
+    [
+        "Pango Chute",
+        180
+    ],
+    [
+        "Peachpa",
+        180
+    ],
+    [
+        "Pipper",
+        180
+    ],
+    [
+        "Pork Steak",
+        180
+    ],
+    [
+        "Prime Veggie Burger",
+        180
+    ],
+    [
+        "Purple Juppie",
+        180
+    ],
+    [
+        "Purple Sardplant",
+        180
+    ],
+    [
+        "Purplum",
+        180
+    ],
+    [
+        "RainbowBerry",
+        180
+    ],
+    [
+        "Red Juppie",
+        180
+    ],
+    [
+        "Red Sardplant",
+        180
+    ],
+    [
+        "Sardplant",
+        180
+    ],
+    [
+        "Scabergy",
+        180
+    ],
+    [
+        "Scabu",
+        180
+    ],
+    [
+        "Scoop Chops",
+        180
+    ],
+    [
+        "Scrampi",
+        180
+    ],
+    [
+        "Sea Pineapple",
+        180
+    ],
+    [
+        "Seaweed Sandwich",
+        180
+    ],
+    [
+        "Snowberries",
+        180
+    ],
+    [
+        "Sourmelon",
+        180
+    ],
+    [
+        "Spaghetti Soup",
+        180
+    ],
+    [
+        "Spironut",
+        180
+    ],
+    [
+        "Spooky Jelly Brains",
+        180
+    ],
+    [
+        "Squid",
+        180
+    ],
+    [
+        "Starberry",
+        180
+    ],
+    [
+        "Stripey Urchin",
+        180
+    ],
+    [
+        "Stuffed Fish Head",
+        180
+    ],
+    [
+        "Stuffed Sea Cucumber",
+        180
+    ],
+    [
+        "Super Gelupepper",
+        180
+    ],
+    [
+        "Swill Pudding",
+        180
+    ],
+    [
+        "Teal Juppie",
+        180
+    ],
+    [
+        "Thistleberry",
+        180
+    ],
+    [
+        "Ticklegum",
+        180
+    ],
+    [
+        "Tigersquash Mega",
+        180
+    ],
+    [
+        "Tobbie Fruit",
+        180
+    ],
+    [
+        "Vegan Cheese",
+        180
+    ],
+    [
+        "Vegetarian Sea Taco",
+        180
+    ],
+    [
+        "Vionanna",
+        180
+    ],
+    [
+        "Vitamin A Tablets",
+        180
+    ],
+    [
+        "Vitamin B Tablets",
+        180
+    ],
+    [
+        "Vitamin C Tablets",
+        180
+    ],
+    [
+        "Whomp Berries",
+        180
+    ],
+    [
+        "Yolk Beans",
+        180
     ]
 ]
