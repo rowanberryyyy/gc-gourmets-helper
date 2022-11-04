@@ -1494,5 +1494,517 @@
     [
         "Yolk Beans",
         180
+    ],
+        [
+        "Baby Cabbage Jelly Beans",
+        90
+    ],
+    [
+        "Charcoal Jelly Beans",
+        90
+    ],
+    [
+        "Christmas Pudding",
+        90
+    ],
+    [
+        "Cloud Muffin",
+        90
+    ],
+    [
+        "Dark Chocolate Poogle",
+        90
+    ],
+    [
+        "Deluxe Chia Cake",
+        90
+    ],
+    [
+        "Four Dirt Pizza Block",
+        90
+    ],
+    [
+        "Juppiemint Bar",
+        90
+    ],
+    [
+        "Large Chia Cake",
+        90
+    ],
+    [
+        "Lemon Sherbert Jelly Beans",
+        90
+    ],
+    [
+        "Mint Chocolate Kacheek",
+        90
+    ],
+    [
+        "Moehog Sundae",
+        90
+    ],
+    [
+        "Orange Chia Cake",
+        90
+    ],
+    [
+        "Orange Chocolate Scorchio",
+        90
+    ],
+    [
+        "Seafarers Hot Dog",
+        90
+    ],
+    [
+        "Strawberry Poogle Biscuit",
+        90
+    ],
+    [
+        "Sweet Necklace",
+        90
+    ],
+    [
+        "Taco Hot Dog",
+        90
+    ],
+    [
+        "Tigerbuggle Scorchio Cookie",
+        90
+    ],
+    [
+        "Bullseye Pizza",
+        91
+    ],
+    [
+        "Caramel Poogle Biscuit",
+        91
+    ],
+    [
+        "Dark Chocolate Shoyru",
+        91
+    ],
+    [
+        "Mint Chocolate Lupe",
+        91
+    ],
+    [
+        "Polka Dot Hot Dog",
+        91
+    ],
+    [
+        "Thistleberry Pie",
+        91
+    ],
+    [
+        "Whole Garden Fresh Pizza",
+        91
+    ],
+    [
+        "Whole Yummy Cloud Pizza",
+        91
+    ],
+    [
+        "Beans and Tuna Jacket Potato",
+        92
+    ],
+    [
+        "Caramel Skeith Surprise",
+        92
+    ],
+    [
+        "Dark Chocolate Skeith",
+        92
+    ],
+    [
+        "Fluff N Stuff Grarrl Gobstopper",
+        92
+    ],
+    [
+        "Megachilli Hot Dog",
+        92
+    ],
+    [
+        "Mint Chocolate Blumaroo",
+        92
+    ],
+    [
+        "Poogle Biscuit",
+        92
+    ],
+    [
+        "Snowberry Quiggle Cake",
+        92
+    ],
+    [
+        "Sour Uni Cake",
+        92
+    ],
+    [
+        "Strawberry Fondant Surprise",
+        92
+    ],
+    [
+        "Thistleberry Crepe",
+        92
+    ],
+    [
+        "Apple and Custard Drops",
+        93
+    ],
+    [
+        "Frog Leg Pizza",
+        93
+    ],
+    [
+        "Kau Sundae",
+        93
+    ],
+    [
+        "Mint Chocolate Chia",
+        93
+    ],
+    [
+        "Moehog Surprise",
+        93
+    ],
+    [
+        "Rainbow Melt Pizza",
+        93
+    ],
+    [
+        "Strawberry Shimmer Cake",
+        93
+    ],
+    [
+        "Strawberry Skeith Biscuit",
+        93
+    ],
+    [
+        "Bullseyes",
+        94
+    ],
+    [
+        "Choccy Chip Skeith Biscuit",
+        94
+    ],
+    [
+        "Deluxe Jacket Potato",
+        94
+    ],
+    [
+        "Edible Tar Pizza",
+        94
+    ],
+    [
+        "Mint Chocolate Peophin",
+        94
+    ],
+    [
+        "Minty Choccywhip",
+        94
+    ],
+    [
+        "Starfish Pizza",
+        94
+    ],
+    [
+        "Whole Chilli Deluxe Pizza",
+        94
+    ],
+    [
+        "Blue Pepper Pizza",
+        95
+    ],
+    [
+        "Healthy Grass Hot Dog",
+        95
+    ],
+    [
+        "Super Spicy Jelly Beans",
+        95
+    ],
+    [
+        "Wormy Slushie",
+        95
+    ],
+    [
+        "Yummy Drops",
+        95
+    ],
+    [
+        "Chocolate Peach",
+        96
+    ],
+    [
+        "ErgyFruit Jelly Beans",
+        96
+    ],
+    [
+        "Hazelnut Whirl",
+        96
+    ],
+    [
+        "Lime Chomby Cake",
+        96
+    ],
+    [
+        "Mustard and Tofu Hot Dog",
+        96
+    ],
+    [
+        "Space Slushie",
+        96
+    ],
+    [
+        "Water Pizza",
+        96
+    ],
+    [
+        "Caramel and Custard Drops",
+        97
+    ],
+    [
+        "Creamy Choccywhip",
+        97
+    ],
+    [
+        "Deluxe Water Pizza",
+        97
+    ],
+    [
+        "Honey Coated Hot Dog",
+        97
+    ],
+    [
+        "Omnipotent Onion Grarrl Gobstopper",
+        97
+    ],
+    [
+        "Secret Sloth Slushie",
+        97
+    ],
+    [
+        "Spooky Flying Doughnut",
+        97
+    ],
+    [
+        "Berry Blend Slushie",
+        98
+    ],
+    [
+        "Chocolate Cherry Cheesecake",
+        98
+    ],
+    [
+        "Dung Slushie",
+        98
+    ],
+    [
+        "Vionanna Mince Pie",
+        98
+    ],
+    [
+        "Big Beefy Hot Dog",
+        99
+    ],
+    [
+        "Blackberry Eyrie Cookie",
+        99
+    ],
+    [
+        "Blueberry Deluxe Cake",
+        99
+    ],
+    [
+        "Burning Hot Dog",
+        99
+    ],
+    [
+        "Cheeseburger Slushie",
+        99
+    ],
+    [
+        "Cherry Lemonade Slushie",
+        99
+    ],
+    [
+        "Chia Cake",
+        99
+    ],
+    [
+        "Chocolate Chip Eyrie Cookie",
+        99
+    ],
+    [
+        "Chocolate Chip Quiggle Cookie",
+        99
+    ],
+    [
+        "Chokato Deluxe Aisha Cake",
+        99
+    ],
+    [
+        "Cinnamon Eyrie Cookie",
+        99
+    ],
+    [
+        "Dargil Meat Mince Pie",
+        99
+    ],
+    [
+        "Deluxe Strawberry Toffee Chokato",
+        99
+    ],
+    [
+        "Diamond Hot Dog",
+        99
+    ],
+    [
+        "Double Chocolate Jelly Beans",
+        99
+    ],
+    [
+        "Double Cream Vanilla Sponge",
+        99
+    ],
+    [
+        "Fishy Delight Grarrl Gobstopper",
+        99
+    ],
+    [
+        "Freshly Cut Grass Slushie",
+        99
+    ],
+    [
+        "Gooseberry Crepe",
+        99
+    ],
+    [
+        "Grapefruit Cake",
+        99
+    ],
+    [
+        "Happy Birthday Pizza",
+        99
+    ],
+    [
+        "Linked Hot Dogs",
+        99
+    ],
+    [
+        "Magical Red Starry Slushie",
+        99
+    ],
+    [
+        "Mecha Hot Dog",
+        99
+    ],
+    [
+        "Mega Lemon Blitz Smoothie",
+        99
+    ],
+    [
+        "Mega Salmon Sherbert Smoothie",
+        99
+    ],
+    [
+        "Mini Baby Hot Dogs",
+        99
+    ],
+    [
+        "Minty Eyrie Cookie",
+        99
+    ],
+    [
+        "Pan Galactic Gargle Slushie",
+        99
+    ],
+    [
+        "Peachy Pizza",
+        99
+    ],
+    [
+        "Peanut and Chocolate Slushie",
+        99
+    ],
+    [
+        "PIZZA OF DEATH",
+        99
+    ],
+    [
+        "Stack It High Cake",
+        99
+    ],
+    [
+        "Tar Slushie",
+        99
+    ],
+    [
+        "Tiger Orange Slushie",
+        99
+    ],
+    [
+        "Triple Choco-Strawberry Cake",
+        99
+    ],
+    [
+        "Choco Spray",
+        100
+    ],
+    [
+        "Chococherry Blumaroo Ears",
+        100
+    ],
+    [
+        "Chocolate Gum",
+        100
+    ],
+    [
+        "Chocolate Lipstick",
+        100
+    ],
+    [
+        "Chocolate Orange Easter Negg",
+        100
+    ],
+    [
+        "Chocolate Peanuts With Peas",
+        100
+    ],
+    [
+        "Chocoon",
+        100
+    ],
+    [
+        "Creamy Chocolate Pie",
+        100
+    ],
+    [
+        "Crunchy Chocolate Grarrl",
+        100
+    ],
+    [
+        "Lemon and Lime Easter Negg",
+        100
+    ],
+    [
+        "Luxury Chocolate Easter Negg",
+        100
+    ],
+    [
+        "Mint Chocolate Easter Negg",
+        100
+    ],
+    [
+        "Pretty Pink Easter Negg",
+        100
+    ],
+    [
+        "Spotted Easter Negg",
+        100
+    ],
+    [
+        "Strawberries and Cream Easter Negg",
+        100
     ]
 ]
