@@ -1109,7 +1109,7 @@
    ],
    [
       "Boiled Sea Serpent",
-      180
+      99
    ],
    [
       "Calcium Supplement",
@@ -1137,7 +1137,7 @@
    ],
    [
       "Coral Beef",
-      180
+      92
    ],
    [
       "Coral Salad",
@@ -1265,7 +1265,7 @@
    ],
    [
       "Kelp Samosa",
-      180
+      91
    ],
    [
       "Koyle",
@@ -1385,7 +1385,7 @@
    ],
    [
       "Scrampi",
-      180
+      92
    ],
    [
       "Sea Pineapple",
@@ -1393,7 +1393,7 @@
    ],
    [
       "Seaweed Sandwich",
-      180
+      91
    ],
    [
       "Snowberries",
@@ -1417,7 +1417,7 @@
    ],
    [
       "Squid",
-      180
+      94
    ],
    [
       "Starberry",
@@ -2006,6 +2006,10 @@
    [
       "Strawberries and Cream Easter Negg",
       100
+   ],
+   [
+   "Haunted Milk",
+   90
    ],
    [
       "Brains a la Tree",
