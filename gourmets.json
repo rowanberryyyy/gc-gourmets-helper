@@ -384,10 +384,6 @@
         100
     ],
     [
-        "Chocolate Roll",
-        180
-    ],
-    [
         "Chocolate Sandwich",
         100
     ],
@@ -1656,10 +1652,6 @@
         92
     ],
     [
-        "Sourmelon",
-        180
-    ],
-    [
         "Space Slushie",
         96
     ],
@@ -1714,10 +1706,6 @@
     [
         "Stack It High Cake",
         99
-    ],
-    [
-        "Starberry",
-        180
     ],
     [
         "Starfish Pizza",
@@ -1776,10 +1764,6 @@
         99
     ],
     [
-        "Stuffed Fish Head",
-        180
-    ],
-    [
         "Stuffed Olive Salad",
         91
     ],
@@ -1800,10 +1784,6 @@
         92
     ],
     [
-        "Super Gelupepper",
-        180
-    ],
-    [
         "Super Spicy Jelly Beans",
         95
     ],
@@ -1813,7 +1793,7 @@
     ],
     [
         "Swill Pudding",
-        180
+        95
     ],
     [
         "Taco Hot Dog",
@@ -1836,10 +1816,6 @@
         100
     ],
     [
-        "Teal Juppie",
-        180
-    ],
-    [
         "Terry Berry",
         95
     ],
@@ -1858,10 +1834,6 @@
     [
         "Thistleberry Sandwich",
         91
-    ],
-    [
-        "Thistleberry",
-        180
     ],
     [
         "Thornberry",
@@ -1896,20 +1868,12 @@
         98
     ],
     [
-        "Tigersquash Mega",
-        180
-    ],
-    [
         "Tigersquash Spectacular",
         99
     ],
     [
         "Tigersquash",
         99
-    ],
-    [
-        "Tobbie Fruit",
-        180
     ],
     [
         "Tomato Cannon Ball",
@@ -1948,36 +1912,12 @@
         98
     ],
     [
-        "Vegan Cheese",
-        180
-    ],
-    [
-        "Vegetarian Sea Taco",
-        180
-    ],
-    [
         "Vein Cabbage",
         99
     ],
     [
         "Vionanna Mince Pie",
         98
-    ],
-    [
-        "Vionanna",
-        180
-    ],
-    [
-        "Vitamin A Tablets",
-        180
-    ],
-    [
-        "Vitamin B Tablets",
-        180
-    ],
-    [
-        "Vitamin C Tablets",
-        180
     ],
     [
         "Waffle Sandwich",
@@ -2013,7 +1953,7 @@
     ],
     [
         "Whomp Berries",
-        180
+        99
     ],
     [
         "Wing of Korbat",
