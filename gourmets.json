@@ -1,2046 +1,2094 @@
 [
-    [
-        "Acara Ice Cream Surprise",
-        96
-    ],
-    [
-        "Anchovies",
-        180
-    ],
-    [
-        "Angelic Ice Lolly",
-        99
-    ],
-    [
-        "Ants on Ants",
-        94
-    ],
-    [
-        "Apple Lantern",
-        99
-    ],
-    [
-        "Apple and Custard Drops",
-        93
-    ],
-    [
-        "Asparagus Balls",
-        99
-    ],
-    [
-        "Asparagus Pie",
-        99
-    ],
-    [
-        "BLT Croissant",
-        99
-    ],
-    [
-        "BLT sandwich",
-        180
-    ],
-    [
-        "Baby Bloater",
-        100
-    ],
-    [
-        "Baby Cabbage Jelly Beans",
-        90
-    ],
-    [
-        "Bacon Belly Buster",
-        99
-    ],
-    [
-        "Baked Apple with Snowberries",
-        96
-    ],
-    [
-        "Banan",
-        180
-    ],
-    [
-        "Banana Achyfi",
-        90
-    ],
-    [
-        "Banana Grub",
-        100
-    ],
-    [
-        "Banana Split Chia Pop",
-        98
-    ],
-    [
-        "Bangers and Mash",
-        97
-    ],
-    [
-        "Bargella Root",
-        180
-    ],
-    [
-        "Bargil Surprise",
-        180
-    ],
-    [
-        "Bargjelly Sundae",
-        180
-    ],
-    [
-        "Barnacle Bills Belt Busting Burger",
-        100
-    ],
-    [
-        "Bat Kebab",
-        96
-    ],
-    [
-        "Beans and Tuna Jacket Potato",
-        92
-    ],
-    [
-        "Berry Blend Slushie",
-        98
-    ],
-    [
-        "Berry Joy Fun Pop",
-        100
-    ],
-    [
-        "Big Beefy Hot Dog",
-        99
-    ],
-    [
-        "Big Gulp Neocola",
-        99
-    ],
-    [
-        "Bilge Rat Madeira",
-        100
-    ],
-    [
-        "Black Caviar",
-        97
-    ],
-    [
-        "Blackberry Eyrie Cookie",
-        99
-    ],
-    [
-        "Blairnut",
-        180
-    ],
-    [
-        "Blood Mole Plant",
-        99
-    ],
-    [
-        "Bludberry",
-        99
-    ],
-    [
-        "Blue Draik Egg",
-        98
-    ],
-    [
-        "Blue Moon Sundae",
-        92
-    ],
-    [
-        "Blue Pepper Pizza",
-        95
-    ],
-    [
-        "Blue Toobers",
-        93
-    ],
-    [
-        "BluePepper",
-        180
-    ],
-    [
-        "Blueberry Deluxe Cake",
-        99
-    ],
-    [
-        "Blueberry and Oyster Ice Cream",
-        100
-    ],
-    [
-        "Blumaroo Tail Salad Extravaganza",
-        94
-    ],
-    [
-        "Bluna Burger",
-        98
-    ],
-    [
-        "Boiled Sea Serpent",
-        99
-    ],
-    [
-        "Bomberry Grog",
-        100
-    ],
-    [
-        "Borovan Layered Cake",
-        99
-    ],
-    [
-        "Brain Kebab",
-        98
-    ],
-    [
-        "Brains a la Tree",
-        100
-    ],
-    [
-        "Broccoli Kebab",
-        97
-    ],
-    [
-        "Broccoli and Mustard Sandwich",
-        98
-    ],
-    [
-        "Broccoli with Sprinkles",
-        99
-    ],
-    [
-        "Bullseye Pizza",
-        91
-    ],
-    [
-        "Bullseyes",
-        94
-    ],
-    [
-        "Burning Hot Dog",
-        99
-    ],
-    [
-        "Cabbage Cupcake",
-        95
-    ],
-    [
-        "Caesar Salad",
-        100
-    ],
-    [
-        "Calcium Supplement",
-        180
-    ],
-    [
-        "Candy Floss Carrot",
-        99
-    ],
-    [
-        "Cannon Fodder",
-        100
-    ],
-    [
-        "Capn Threelegs Cutlass Crusade",
-        100
-    ],
-    [
-        "Caramel Poogle Biscuit",
-        91
-    ],
-    [
-        "Caramel Skeith Surprise",
-        92
-    ],
-    [
-        "Caramel and Custard Drops",
-        97
-    ],
-    [
-        "Carburnup Pepper",
-        180
-    ],
-    [
-        "Chain of Onions",
-        99
-    ],
-    [
-        "Charcoal Jelly Beans",
-        90
-    ],
-    [
-        "Cheeseburger Slushie",
-        99
-    ],
-    [
-        "Cheesy Apple Stick",
-        95
-    ],
-    [
-        "Cheesy Asparagus",
-        99
-    ],
-    [
-        "Cheesy Broccoli Bite",
-        96
-    ],
-    [
-        "Cheesy Carrots",
-        99
-    ],
-    [
-        "Cheesy Cod and Tofu Burger",
-        180
-    ],
-    [
-        "Cherry Lemonade Slushie",
-        99
-    ],
-    [
-        "Cherry Pop",
-        100
-    ],
-    [
-        "Chia Cake",
-        99
-    ],
-    [
-        "Chilli Salmon Souffle",
-        94
-    ],
-    [
-        "Chip Butty Pizza",
-        94
-    ],
-    [
-        "Choccy Chip Skeith Biscuit",
-        94
-    ],
-    [
-        "Choco Spray",
-        100
-    ],
-    [
-        "Chococherry Blumaroo Ears",
-        100
-    ],
-    [
-        "Chocolate Cherry Cheesecake",
-        98
-    ],
-    [
-        "Chocolate Chip Eyrie Cookie",
-        99
-    ],
-    [
-        "Chocolate Chip Quiggle Cookie",
-        99
-    ],
-    [
-        "Chocolate Coated Blue Cheese",
-        99
-    ],
-    [
-        "Chocolate Coated Cheese Strings",
-        99
-    ],
-    [
-        "Chocolate Coated Cheese",
-        98
-    ],
-    [
-        "Chocolate Coated Eye",
-        97
-    ],
-    [
-        "Chocolate Coated Holey Cheese",
-        98
-    ],
-    [
-        "Chocolate Coated Tangy Cheese",
-        97
-    ],
-    [
-        "Chocolate Fish",
-        96
-    ],
-    [
-        "Chocolate Gum",
-        100
-    ],
-    [
-        "Chocolate Joy Fun Pop",
-        100
-    ],
-    [
-        "Chocolate Lipstick",
-        100
-    ],
-    [
-        "Chocolate Orange Easter Negg",
-        100
-    ],
-    [
-        "Chocolate Peach",
-        96
-    ],
-    [
-        "Chocolate Peanuts With Peas",
-        100
-    ],
-    [
-        "Chocolate Roll",
-        180
-    ],
-    [
-        "Chocolate Sandwich",
-        100
-    ],
-    [
-        "Chocolate Shoyru Meatball",
-        91
-    ],
-    [
-        "Chocolately Cheese Wedges",
-        100
-    ],
-    [
-        "Chocoon",
-        100
-    ],
-    [
-        "Chokato Crepe",
-        96
-    ],
-    [
-        "Chokato Deluxe Aisha Cake",
-        99
-    ],
-    [
-        "Chokato",
-        99
-    ],
-    [
-        "Christmas Pudding",
-        90
-    ],
-    [
-        "Cinnamon Eyrie Cookie",
-        99
-    ],
-    [
-        "Clam Chops",
-        180
-    ],
-    [
-        "Cloud Muffin",
-        90
-    ],
-    [
-        "Coco Pumpkin",
-        99
-    ],
-    [
-        "Coconut Juice Bowl",
-        96
-    ],
-    [
-        "Combomelon Plant",
-        180
-    ],
-    [
-        "Cone-Shaped Cherry",
-        99
-    ],
-    [
-        "Cone-Shaped Lemon",
-        98
-    ],
-    [
-        "Cone-Shaped Orange",
-        97
-    ],
-    [
-        "Cone-Shaped Strawberry",
-        96
-    ],
-    [
-        "Cone-Shaped Watermelon",
-        95
-    ],
-    [
-        "Coral Beef",
-        92
-    ],
-    [
-        "Coral Salad",
-        180
-    ],
-    [
-        "Coral Sponge Cake",
-        180
-    ],
-    [
-        "Corn Pyramid",
-        94
-    ],
-    [
-        "Cornupepper",
-        99
-    ],
-    [
-        "Creamy Choccywhip",
-        97
-    ],
-    [
-        "Creamy Chocolate Pie",
-        100
-    ],
-    [
-        "Crunchy Bone Sandwich",
-        97
-    ],
-    [
-        "Crunchy Chocolate Grarrl",
-        100
-    ],
-    [
-        "Crunchy Snotball",
-        99
-    ],
-    [
-        "Crusty Clam Surprise",
-        100
-    ],
-    [
-        "Crystal Burger",
-        92
-    ],
-    [
-        "Crystal Cookies",
-        93
-    ],
-    [
-        "Crystal Crunch",
-        94
-    ],
-    [
-        "Crystal Pop",
-        180
-    ],
-    [
-        "Crystal Taco",
-        97
-    ],
-    [
-        "Crystal Turkey",
-        98
-    ],
-    [
-        "Cube-Shaped Cherry",
-        95
-    ],
-    [
-        "Cube-Shaped Lemon",
-        94
-    ],
-    [
-        "Cube-Shaped Orange",
-        92
-    ],
-    [
-        "Cube-Shaped Strawberry",
-        90
-    ],
-    [
-        "Dargil Meat Mince Pie",
-        99
-    ],
-    [
-        "Dargil Meat",
-        180
-    ],
-    [
-        "Dark Chocolate Poogle",
-        90
-    ],
-    [
-        "Dark Chocolate Shoyru",
-        91
-    ],
-    [
-        "Dark Chocolate Skeith",
-        92
-    ],
-    [
-        "Dark Shroom",
-        99
-    ],
-    [
-        "Deluxe Chia Cake",
-        90
-    ],
-    [
-        "Deluxe Jacket Potato",
-        94
-    ],
-    [
-        "Deluxe Strawberry Toffee Chokato",
-        99
-    ],
-    [
-        "Deluxe Water Pizza",
-        97
-    ],
-    [
-        "Diamond Hot Dog",
-        99
-    ],
-    [
-        "Double Chocolate Jelly Beans",
-        99
-    ],
-    [
-        "Double Chocolate Surprise",
-        91
-    ],
-    [
-        "Double Cream Vanilla Sponge",
-        99
-    ],
-    [
-        "Double Stuffed Guppy",
-        100
-    ],
-    [
-        "Doughnutfruit",
-        99
-    ],
-    [
-        "Dr. Backwash",
-        95
-    ],
-    [
-        "Dried Blusops",
-        97
-    ],
-    [
-        "Dung Slushie",
-        98
-    ],
-    [
-        "Edible Tar Pizza",
-        94
-    ],
-    [
-        "Egg and Tomato Sandwich",
-        99
-    ],
-    [
-        "Elppa",
-        180
-    ],
-    [
-        "ErgyFruit Grog",
-        100
-    ],
-    [
-        "ErgyFruit Jelly Beans",
-        96
-    ],
-    [
-        "ErgyFruit",
-        99
-    ],
-    [
-        "Escargot",
-        180
-    ],
-    [
-        "Evil Blancmange",
-        99
-    ],
-    [
-        "Evil Pinanna",
-        99
-    ],
-    [
-        "Extra Cheesy Cheddar Crisps",
-        93
-    ],
-    [
-        "Extra Gherkin Hot Dog",
-        95
-    ],
-    [
-        "Faerie Block Mallows",
-        98
-    ],
-    [
-        "Faerie Chocodrop",
-        99
-    ],
-    [
-        "Faerie Dreamwich",
-        99
-    ],
-    [
-        "Faerie Fruit Salad",
-        99
-    ],
-    [
-        "Faerie Sparklecake",
-        99
-    ],
-    [
-        "Faerieland Gourmet Burger",
-        92
-    ],
-    [
-        "Fiery Faerie Chicken Nuggets",
-        180
-    ],
-    [
-        "Fish Flavour Ice Cream",
-        90
-    ],
-    [
-        "Fishy Delight Grarrl Gobstopper",
-        99
-    ],
-    [
-        "Fishy Nibbles",
-        180
-    ],
-    [
-        "Fizzy Quiggle Drink",
-        180
-    ],
-    [
-        "Flaming Bomberry",
-        180
-    ],
-    [
-        "Flotsam Fin Soup",
-        91
-    ],
-    [
-        "Fluff N Stuff Grarrl Gobstopper",
-        92
-    ],
-    [
-        "Foozette",
-        180
-    ],
-    [
-        "Forbidden Plunder",
-        100
-    ],
-    [
-        "Four Dirt Pizza Block",
-        90
-    ],
-    [
-        "Four Layer Carrot Cake",
-        99
-    ],
-    [
-        "French Onion Soup",
-        99
-    ],
-    [
-        "Fresh Fruit Goblet",
-        99
-    ],
-    [
-        "Fresh Lobster Tail",
-        99
-    ],
-    [
-        "Fresh Shark Fin",
-        180
-    ],
-    [
-        "Fresh Sushi Cone",
-        98
-    ],
-    [
-        "Fresh Sushi Roll",
-        97
-    ],
-    [
-        "Freshly Cut Grass Slushie",
-        99
-    ],
-    [
-        "Fried Suwek",
-        96
-    ],
-    [
-        "Fright Pop",
-        99
-    ],
-    [
-        "Frog Leg Pizza",
-        93
-    ],
-    [
-        "Frozen Fish Gel",
-        90
-    ],
-    [
-        "Frozen Negg",
-        95
-    ],
-    [
-        "Frozen Prawn Delight",
-        91
-    ],
-    [
-        "Frozen Veggie Delight",
-        96
-    ],
-    [
-        "FruitMallow",
-        180
-    ],
-    [
-        "Fruity Brucicle",
-        90
-    ],
-    [
-        "Fruity Faerie Lolly",
-        90
-    ],
-    [
-        "Fungi Fruit",
-        180
-    ],
-    [
-        "Funnydew Melon",
-        180
-    ],
-    [
-        "Gargaraptor Arm",
-        94
-    ],
-    [
-        "Gelupepper",
-        99
-    ],
-    [
-        "Geopeppers",
-        99
-    ],
-    [
-        "Ghost Marshmallows",
-        90
-    ],
-    [
-        "Globlin",
-        180
-    ],
-    [
-        "Gnome Shroom",
-        99
-    ],
-    [
-        "Golden Caviar",
-        99
-    ],
-    [
-        "Golden Juppie",
-        99
-    ],
-    [
-        "Gooseberries",
-        180
-    ],
-    [
-        "Gooseberry Crepe",
-        99
-    ],
-    [
-        "Gorerito",
-        99
-    ],
-    [
-        "Grape Jelly Brucicle",
-        91
-    ],
-    [
-        "Grape Pop",
-        100
-    ],
-    [
-        "Grapefruit Cake",
-        99
-    ],
-    [
-        "Green Chyrsaberry",
-        98
-    ],
-    [
-        "Green Ham",
-        96
-    ],
-    [
-        "Grog Light",
-        100
-    ],
-    [
-        "Gruish Melon",
-        180
-    ],
-    [
-        "Grundo Toe Lint",
-        98
-    ],
-    [
-        "Grundos House Special",
-        90
-    ],
-    [
-        "Grundos Luxury Kebab",
-        95
-    ],
-    [
-        "Gummy Amoeba",
-        180
-    ],
-    [
-        "Gummy Star",
-        180
-    ],
-    [
-        "Gwontek Melon",
-        98
-    ],
-    [
-        "Hair Stuffed Maggot",
-        96
-    ],
-    [
-        "Halloween Candy Cane",
-        99
-    ],
-    [
-        "Hamarama Ice Lolly",
-        99
-    ],
-    [
-        "Happy Birthday Pizza",
-        99
-    ],
-    [
-        "Haunted Milk",
-        90
-    ],
-    [
-        "Hazelnut Whirl",
-        96
-    ],
-    [
-        "Headless Horsefish",
-        100
-    ],
-    [
-        "Healthy Grass Hot Dog",
-        95
-    ],
-    [
-        "Heartatoe",
-        180
-    ],
-    [
-        "Hogshead",
-        100
-    ],
-    [
-        "Honey Blossom",
-        99
-    ],
-    [
-        "Honey Coated Hot Dog",
-        97
-    ],
-    [
-        "Honey and Bacon Burger",
-        94
-    ],
-    [
-        "Hot Tyrannian Pepper",
-        92
-    ],
-    [
-        "Ice Draik Egg",
-        100
-    ],
-    [
-        "Iced Borovan Cake",
-        180
-    ],
-    [
-        "Intestines and Marinara",
-        92
-    ],
-    [
-        "Iron Supplement",
-        180
-    ],
-    [
-        "Island Meatloaf",
-        97
-    ],
-    [
-        "Jelly Covered Greycorn",
-        90
-    ],
-    [
-        "Jelly Finger",
-        99
-    ],
-    [
-        "Jelly Spider Eyeball",
-        99
-    ],
-    [
-        "Jolly Green Jiggling Jelly",
-        96
-    ],
-    [
-        "Juicy Melon",
-        180
-    ],
-    [
-        "Juppiemint Bar",
-        90
-    ],
-    [
-        "Kabuggles",
-        180
-    ],
-    [
-        "Kau Sundae",
-        93
-    ],
-    [
-        "Keel Haul",
-        100
-    ],
-    [
-        "Kelp Samosa",
-        91
-    ],
-    [
-        "Koyle",
-        180
-    ],
-    [
-        "Krakuberries",
-        99
-    ],
-    [
-        "Krakuberry Cove",
-        100
-    ],
-    [
-        "Krakuberry Grog",
-        100
-    ],
-    [
-        "Land Lubber",
-        100
-    ],
-    [
-        "Large Chia Cake",
-        90
-    ],
-    [
-        "Lavaberry",
-        99
-    ],
-    [
-        "Le Sausage",
-        94
-    ],
-    [
-        "Leaf Taco",
-        100
-    ],
-    [
-        "Lemaniac",
-        180
-    ],
-    [
-        "Lemon Pop",
-        100
-    ],
-    [
-        "Lemon Sherbert Jelly Beans",
-        90
-    ],
-    [
-        "Lemon and Lime Easter Negg",
-        100
-    ],
-    [
-        "Level Up Shroom",
-        93
-    ],
-    [
-        "Lime Chomby Cake",
-        96
-    ],
-    [
-        "Lime Starfish",
-        180
-    ],
-    [
-        "Linked Hot Dogs",
-        99
-    ],
-    [
-        "Lobster Berry Surprise",
-        96
-    ],
-    [
-        "Lobsterclaw Salad",
-        180
-    ],
-    [
-        "Loretta Fontaines Perfect Pizza",
-        100
-    ],
-    [
-        "Luxury Cabbage Cake",
-        99
-    ],
-    [
-        "Luxury Chocolate Easter Negg",
-        100
-    ],
-    [
-        "Magical Apple Chia Pop",
-        99
-    ],
-    [
-        "Magical Aubergine Chia Pop",
-        99
-    ],
-    [
-        "Magical Avocado Chia Pop",
-        99
-    ],
-    [
-        "Magical Blueberry Chia Pop",
-        99
-    ],
-    [
-        "Magical Chokato Chia Pop",
-        99
-    ],
-    [
-        "Magical Gooseberry Chia Pop",
-        99
-    ],
-    [
-        "Magical Lemon Chia Pop",
-        99
-    ],
-    [
-        "Magical Lime Chia Pop",
-        99
-    ],
-    [
-        "Magical Nugget Chia Pop",
-        99
-    ],
-    [
-        "Magical Peach Chia Pop",
-        99
-    ],
-    [
-        "Magical Pear Chia Pop",
-        99
-    ],
-    [
-        "Magical Pineapple Chia Pop",
-        99
-    ],
-    [
-        "Magical Plum Chia Pop",
-        99
-    ],
-    [
-        "Magical Red Starry Slushie",
-        99
-    ],
-    [
-        "Magical Strawberry Brucicle",
-        100
-    ],
-    [
-        "Magical Tomato Chia Pop",
-        99
-    ],
-    [
-        "Man O War",
-        100
-    ],
-    [
-        "Mecha Hot Dog",
-        99
-    ],
-    [
-        "MechaBerries",
-        180
-    ],
-    [
-        "Meerca Pie",
-        99
-    ],
-    [
-        "Mega Lemon Blitz Smoothie",
-        99
-    ],
-    [
-        "Mega Pipper Sandwich",
-        95
-    ],
-    [
-        "Mega Power Plusshroom",
-        94
-    ],
-    [
-        "Mega Salmon Sherbert Smoothie",
-        99
-    ],
-    [
-        "Mega Sandwich",
-        99
-    ],
-    [
-        "Mega Tuna Sandwich",
-        98
-    ],
-    [
-        "Megachilli Hot Dog",
-        92
-    ],
-    [
-        "Melow",
-        180
-    ],
-    [
-        "Merryberry",
-        180
-    ],
-    [
-        "Mighty Steakwich",
-        99
-    ],
-    [
-        "Mild Burnumup",
-        94
-    ],
-    [
-        "Milkyway Shake",
-        98
-    ],
-    [
-        "Mini Baby Hot Dogs",
-        99
-    ],
-    [
-        "Mint Chocolate Blumaroo",
-        92
-    ],
-    [
-        "Mint Chocolate Chia",
-        93
-    ],
-    [
-        "Mint Chocolate Easter Negg",
-        100
-    ],
-    [
-        "Mint Chocolate Kacheek",
-        90
-    ],
-    [
-        "Mint Chocolate Lupe",
-        91
-    ],
-    [
-        "Mint Chocolate Peophin",
-        94
-    ],
-    [
-        "Minty Choccywhip",
-        94
-    ],
-    [
-        "Minty Eyrie Cookie",
-        99
-    ],
-    [
-        "Minty Shrimp",
-        180
-    ],
-    [
-        "Mocha Joy Fun Pop",
-        100
-    ],
-    [
-        "Moehog Sundae",
-        90
-    ],
-    [
-        "Moehog Surprise",
-        93
-    ],
-    [
-        "Mouldy Cheese",
-        99
-    ],
-    [
-        "Mustard and Tofu Hot Dog",
-        96
-    ],
-    [
-        "Mynci Surprise Ice Cream",
-        92
-    ],
-    [
-        "Nimmo Day Fruit Cake",
-        91
-    ],
-    [
-        "Nurako",
-        180
-    ],
-    [
-        "Nutritional Block",
-        96
-    ],
-    [
-        "Odorra Pod",
-        97
-    ],
-    [
-        "Olivetato",
-        99
-    ],
-    [
-        "Omnipotent Onion Grarrl Gobstopper",
-        97
-    ],
-    [
-        "Onion Cola",
-        93
-    ],
-    [
-        "Onion and Mustard Pie",
-        99
-    ],
-    [
-        "Orange Chia Cake",
-        90
-    ],
-    [
-        "Orange Chocolate Scorchio",
-        90
-    ],
-    [
-        "Orange Snow Puff",
-        180
-    ],
-    [
-        "Our Famous Krawk Pie",
-        100
-    ],
-    [
-        "Oyster Obsession",
-        100
-    ],
-    [
-        "PIZZA OF DEATH",
-        99
-    ],
-    [
-        "Pan Galactic Gargle Slushie",
-        99
-    ],
-    [
-        "Pango Chute",
-        180
-    ],
-    [
-        "Parsnip Pie",
-        90
-    ],
-    [
-        "Parts on a Pizza",
-        99
-    ],
-    [
-        "Patrapiller and Honey",
-        97
-    ],
-    [
-        "Peach Jelly",
-        92
-    ],
-    [
-        "Peachpa Stuffed Potato",
-        95
-    ],
-    [
-        "Peachpa",
-        180
-    ],
-    [
-        "Peachy Pizza",
-        99
-    ],
-    [
-        "Peanut and Chocolate Slushie",
-        99
-    ],
-    [
-        "Peppered Kersla Bug",
-        97
-    ],
-    [
-        "Phear",
-        99
-    ],
-    [
-        "Pickled Onion",
-        90
-    ],
-    [
-        "Pinanna Paradise",
-        100
-    ],
-    [
-        "Pinanna Plus",
-        99
-    ],
-    [
-        "Pineapple Muffin",
-        90
-    ],
-    [
-        "Pipper",
-        180
-    ],
-    [
-        "Pizza Sandwich",
-        98
-    ],
-    [
-        "Plantcake",
-        100
-    ],
-    [
-        "Plum",
-        99
-    ],
-    [
-        "Polka Carrot",
-        99
-    ],
-    [
-        "Polka Dot Hot Dog",
-        91
-    ],
-    [
-        "Poogle Biscuit",
-        92
-    ],
-    [
-        "Pork Steak",
-        180
-    ],
-    [
-        "Pretty Pink Easter Negg",
-        100
-    ],
-    [
-        "Prime Beef and Chicken Meatballs",
-        93
-    ],
-    [
-        "Prime Veggie Burger",
-        180
-    ],
-    [
-        "Pumpkin Scoopings",
-        99
-    ],
-    [
-        "Puntec Fruit",
-        96
-    ],
-    [
-        "Purple Juppie",
-        180
-    ],
-    [
-        "Purple Sardplant",
-        180
-    ],
-    [
-        "Purple Spotted Shroom",
-        91
-    ],
-    [
-        "Purplum",
-        180
-    ],
-    [
-        "Puzzle Fruit",
-        99
-    ],
-    [
-        "Pyramid Banana",
-        98
-    ],
-    [
-        "Pyramid Pear",
-        97
-    ],
-    [
-        "Pyramid Purpple",
-        99
-    ],
-    [
-        "Pyramid Strawberry",
-        99
-    ],
-    [
-        "Quiggle Pie",
-        99
-    ],
-    [
-        "Radish Meringue",
-        96
-    ],
-    [
-        "Radish Pie",
-        95
-    ],
-    [
-        "Radish and Cheese",
-        98
-    ],
-    [
-        "Rainbow Carrot",
-        99
-    ],
-    [
-        "Rainbow Melt Pizza",
-        93
-    ],
-    [
-        "RainbowBerry",
-        180
-    ],
-    [
-        "Raptraphant Leg",
-        99
-    ],
-    [
-        "Raspberry Pop",
-        100
-    ],
-    [
-        "Red Juppie",
-        180
-    ],
-    [
-        "Red Sardplant",
-        180
-    ],
-    [
-        "Rest in Peace of Chicken",
-        94
-    ],
-    [
-        "Roe Sushi",
-        99
-    ],
-    [
-        "Runny Snot",
-        99
-    ],
-    [
-        "Sardplant",
-        180
-    ],
-    [
-        "Scabergy",
-        180
-    ],
-    [
-        "Scabu",
-        180
-    ],
-    [
-        "Scoop Chops",
-        180
-    ],
-    [
-        "Scrampi",
-        92
-    ],
-    [
-        "Sea Pineapple",
-        180
-    ],
-    [
-        "Seafarers Hot Dog",
-        90
-    ],
-    [
-        "Seafood Pasta Salad",
-        95
-    ],
-    [
-        "Seaweed Flotsam Burger",
-        96
-    ],
-    [
-        "Seaweed Sandwich",
-        91
-    ],
-    [
-        "Secret Sloth Slushie",
-        97
-    ],
-    [
-        "Shiver Me Shrimp",
-        100
-    ],
-    [
-        "Slithering Snake Taco",
-        96
-    ],
-    [
-        "Slithering Squid Surprise",
-        100
-    ],
-    [
-        "Smelly Sardine Wrap",
-        98
-    ],
-    [
-        "Snorkle Pudding",
-        99
-    ],
-    [
-        "Snowager Ice Lolly",
-        100
-    ],
-    [
-        "Snowberries",
-        180
-    ],
-    [
-        "Snowberry Crepe",
-        94
-    ],
-    [
-        "Snowberry Quiggle Cake",
-        92
-    ],
-    [
-        "Songray",
-        99
-    ],
-    [
-        "Sour Uni Cake",
-        92
-    ],
-    [
-        "Sourmelon",
-        180
-    ],
-    [
-        "Space Slushie",
-        96
-    ],
-    [
-        "Sparkly Ice Lolly",
-        100
-    ],
-    [
-        "Spironut",
-        180
-    ],
-    [
-        "Spooky Flying Doughnut",
-        97
-    ],
-    [
-        "Spooky Ghostbeef",
-        99
-    ],
-    [
-        "Spooky Handwich",
-        94
-    ],
-    [
-        "Spooky Jelly Brains",
-        180
-    ],
-    [
-        "Spoooky Muffin",
-        99
-    ],
-    [
-        "Sporkle Leg",
-        94
-    ],
-    [
-        "Spotted Easter Negg",
-        100
-    ],
-    [
-        "Spotted Pudding with Custard",
-        93
-    ],
-    [
-        "Squid on a Stick",
-        100
-    ],
-    [
-        "Squid",
-        94
-    ],
-    [
-        "Stack It High Cake",
-        99
-    ],
-    [
-        "Starberry",
-        180
-    ],
-    [
-        "Starfish Pizza",
-        94
-    ],
-    [
-        "Steak Surprise",
-        97
-    ],
-    [
-        "Strange Pinanna",
-        99
-    ],
-    [
-        "Strawberries and Cream Easter Negg",
-        100
-    ],
-    [
-        "Strawberry Chia Pop",
-        91
-    ],
-    [
-        "Strawberry Fondant Surprise",
-        92
-    ],
-    [
-        "Strawberry Poogle Biscuit",
-        90
-    ],
-    [
-        "Strawberry Salmon",
-        98
-    ],
-    [
-        "Strawberry Shimmer Cake",
-        93
-    ],
-    [
-        "Strawberry Skeith Biscuit",
-        93
-    ],
-    [
-        "Strength Shroom",
-        97
-    ],
-    [
-        "Stripey Urchin",
-        180
-    ],
-    [
-        "Strong Berry",
-        99
-    ],
-    [
-        "Stuffed Fish Head",
-        180
-    ],
-    [
-        "Stuffed Olive Salad",
-        91
-    ],
-    [
-        "Stuffed Penupe",
-        96
-    ],
-    [
-        "Stuffed Sea Cucumber",
-        180
-    ],
-    [
-        "Sugar Coated Leaf",
-        98
-    ],
-    [
-        "Super Fast Shroom",
-        92
-    ],
-    [
-        "Super Gelupepper",
-        180
-    ],
-    [
-        "Super Spicy Jelly Beans",
-        95
-    ],
-    [
-        "Sweet Necklace",
-        90
-    ],
-    [
-        "Swill Pudding",
-        180
-    ],
-    [
-        "Taco Hot Dog",
-        90
-    ],
-    [
-        "Tar Slushie",
-        99
-    ],
-    [
-        "Tartan Chia Pop",
-        99
-    ],
-    [
-        "Tchea Grog",
-        100
-    ],
-    [
-        "TeaLeef",
-        100
-    ],
-    [
-        "Teal Juppie",
-        180
-    ],
-    [
-        "Terry Berry",
-        95
-    ],
-    [
-        "The Stuff",
-        95
-    ],
-    [
-        "Thistleberry Crepe",
-        92
-    ],
-    [
-        "Thistleberry Pie",
-        91
-    ],
-    [
-        "Thistleberry Sandwich",
-        91
-    ],
-    [
-        "Thistleberry",
-        180
-    ],
-    [
-        "Thornberry",
-        99
-    ],
-    [
-        "Ticklegum",
-        180
-    ],
-    [
-        "Tiger Orange Slushie",
-        99
-    ],
-    [
-        "Tigerbuggle Scorchio Cookie",
-        90
-    ],
-    [
-        "Tigerbuggles",
-        98
-    ],
-    [
-        "Tigerfruit",
-        98
-    ],
-    [
-        "Tigermelon",
-        98
-    ],
-    [
-        "Tigersquash Crepe",
-        98
-    ],
-    [
-        "Tigersquash Mega",
-        180
-    ],
-    [
-        "Tigersquash Spectacular",
-        99
-    ],
-    [
-        "Tigersquash",
-        99
-    ],
-    [
-        "Tobbie Fruit",
-        180
-    ],
-    [
-        "Tomato Cannon Ball",
-        100
-    ],
-    [
-        "Tomato Kebab",
-        99
-    ],
-    [
-        "Toxic Shroom",
-        99
-    ],
-    [
-        "Triple Choco-Strawberry Cake",
-        99
-    ],
-    [
-        "Tropical Breeze",
-        100
-    ],
-    [
-        "Twin Salad",
-        92
-    ],
-    [
-        "Tyrannian Water Negg",
-        97
-    ],
-    [
-        "Ugly Pinanna",
-        99
-    ],
-    [
-        "Ultimate Icy Negg",
-        98
-    ],
-    [
-        "Vegan Cheese",
-        180
-    ],
-    [
-        "Vegetarian Sea Taco",
-        180
-    ],
-    [
-        "Vein Cabbage",
-        99
-    ],
-    [
-        "Vionanna Mince Pie",
-        98
-    ],
-    [
-        "Vionanna",
-        180
-    ],
-    [
-        "Vitamin A Tablets",
-        180
-    ],
-    [
-        "Vitamin B Tablets",
-        180
-    ],
-    [
-        "Vitamin C Tablets",
-        180
-    ],
-    [
-        "Waffle Sandwich",
-        93
-    ],
-    [
-        "Walk The Plank",
-        100
-    ],
-    [
-        "Water Pizza",
-        96
-    ],
-    [
-        "Watermelon Roll",
-        92
-    ],
-    [
-        "Whole Chilli Deluxe Pizza",
-        94
-    ],
-    [
-        "Whole Garden Fresh Pizza",
-        91
-    ],
-    [
-        "Whole Yummy Cloud Pizza",
-        91
-    ],
-    [
-        "Whomp Berries",
-        180
-    ],
-    [
-        "Wing of Korbat",
-        99
-    ],
-    [
-        "Wormy Slushie",
-        95
-    ],
-    [
-        "Yolk Beans",
-        180
-    ],
-    [
-        "Yummy Drops",
-        95
-    ],
-    [
-        "Zeenana Crepe",
-        92
-    ],
-    [
-        "Zeenana",
-        100
-    ],
-    [
-        "Zonutuk Fruit",
-        95
-    ]
+	[
+		"Acara Ice Cream Surprise",
+		96
+	],
+	[
+		"Anchovies",
+		180
+	],
+	[
+		"Angelic Ice Lolly",
+		99
+	],
+	[
+		"Ants on Ants",
+		94
+	],
+	[
+		"Apple Juice Carton",
+		100
+	],
+	[
+		"Apple Lantern",
+		99
+	],
+	[
+		"Apple and Custard Drops",
+		93
+	],
+	[
+		"Asparagus Balls",
+		99
+	],
+	[
+		"Asparagus Pie",
+		99
+	],
+	[
+		"BLT Croissant",
+		99
+	],
+	[
+		"BLT sandwich",
+		180
+	],
+	[
+		"Babaa Cake",
+		94
+	],
+	[
+		"Baby Bloater",
+		100
+	],
+	[
+		"Baby Cabbage Jelly Beans",
+		90
+	],
+	[
+		"Bacon Belly Buster",
+		99
+	],
+	[
+		"Baked Apple with Snowberries",
+		96
+	],
+	[
+		"Banan",
+		180
+	],
+	[
+		"Banana Achyfi",
+		90
+	],
+	[
+		"Banana Grub",
+		100
+	],
+	[
+		"Banana Split Chia Pop",
+		98
+	],
+	[
+		"Bangers and Mash",
+		97
+	],
+	[
+		"Bargella Root",
+		180
+	],
+	[
+		"Bargil Surprise",
+		180
+	],
+	[
+		"Bargjelly Sundae",
+		180
+	],
+	[
+		"Barnacle Bills Belt Busting Burger",
+		100
+	],
+	[
+		"Bat Kebab",
+		96
+	],
+	[
+		"Beans and Tuna Jacket Potato",
+		92
+	],
+	[
+		"Berry Blend Slushie",
+		98
+	],
+	[
+		"Berry Joy Fun Pop",
+		100
+	],
+	[
+		"Big Beefy Hot Dog",
+		99
+	],
+	[
+		"Big Gulp Neocola",
+		99
+	],
+	[
+		"Bilge Rat Madeira",
+		100
+	],
+	[
+		"Black Caviar",
+		97
+	],
+	[
+		"Blackberry Eyrie Cookie",
+		99
+	],
+	[
+		"Blairnut",
+		180
+	],
+	[
+		"Blood Mole Plant",
+		99
+	],
+	[
+		"Bludberry",
+		99
+	],
+	[
+		"Blue Draik Egg",
+		98
+	],
+	[
+		"Blue Moon Sundae",
+		92
+	],
+	[
+		"Blue Pepper Pizza",
+		95
+	],
+	[
+		"Blue Toobers",
+		93
+	],
+	[
+		"BluePepper",
+		180
+	],
+	[
+		"Blueberry Deluxe Cake",
+		99
+	],
+	[
+		"Blueberry and Oyster Ice Cream",
+		100
+	],
+	[
+		"Blumaroo Tail Salad Extravaganza",
+		94
+	],
+	[
+		"Bluna Burger",
+		98
+	],
+	[
+		"Boiled Sea Serpent",
+		99
+	],
+	[
+		"Bomberry Grog",
+		100
+	],
+	[
+		"Borovan Layered Cake",
+		99
+	],
+	[
+		"Brain Kebab",
+		98
+	],
+	[
+		"Brains a la Tree",
+		100
+	],
+	[
+		"Broccoli Kebab",
+		97
+	],
+	[
+		"Broccoli and Mustard Sandwich",
+		98
+	],
+	[
+		"Broccoli with Sprinkles",
+		99
+	],
+	[
+		"Bullseye Pizza",
+		91
+	],
+	[
+		"Bullseyes",
+		94
+	],
+	[
+		"Burning Hot Dog",
+		99
+	],
+	[
+		"Cabbage Cupcake",
+		95
+	],
+	[
+		"Caesar Salad",
+		100
+	],
+	[
+		"Calcium Supplement",
+		180
+	],
+	[
+		"Candy Floss Carrot",
+		99
+	],
+	[
+		"Cannon Fodder",
+		100
+	],
+	[
+		"Capn Threelegs Cutlass Crusade",
+		100
+	],
+	[
+		"Caramel Poogle Biscuit",
+		91
+	],
+	[
+		"Caramel Skeith Surprise",
+		92
+	],
+	[
+		"Caramel and Custard Drops",
+		97
+	],
+	[
+		"Carburnup Pepper",
+		180
+	],
+	[
+		"Chain of Onions",
+		99
+	],
+	[
+		"Charcoal Jelly Beans",
+		90
+	],
+	[
+		"Cheeseburger Slushie",
+		99
+	],
+	[
+		"Cheesy Apple Stick",
+		95
+	],
+	[
+		"Cheesy Asparagus",
+		99
+	],
+	[
+		"Cheesy Broccoli Bite",
+		96
+	],
+	[
+		"Cheesy Carrots",
+		99
+	],
+	[
+		"Cheesy Cod and Tofu Burger",
+		180
+	],
+	[
+		"Cherry Lemonade Slushie",
+		99
+	],
+	[
+		"Cherry Pop",
+		100
+	],
+	[
+		"Chia Cake",
+		99
+	],
+	[
+		"Chilli Salmon Souffle",
+		94
+	],
+	[
+		"Chip Butty Pizza",
+		94
+	],
+	[
+		"Choccy Chip Skeith Biscuit",
+		94
+	],
+	[
+		"Choco Spray",
+		100
+	],
+	[
+		"Chococherry Blumaroo Ears",
+		100
+	],
+	[
+		"Chocolate Cherry Cheesecake",
+		98
+	],
+	[
+		"Chocolate Chip Eyrie Cookie",
+		99
+	],
+	[
+		"Chocolate Chip Quiggle Cookie",
+		99
+	],
+	[
+		"Chocolate Coated Blue Cheese",
+		99
+	],
+	[
+		"Chocolate Coated Cheese Strings",
+		99
+	],
+	[
+		"Chocolate Coated Cheese",
+		98
+	],
+	[
+		"Chocolate Coated Eye",
+		97
+	],
+	[
+		"Chocolate Coated Holey Cheese",
+		98
+	],
+	[
+		"Chocolate Coated Tangy Cheese",
+		97
+	],
+	[
+		"Chocolate Covered Toffee",
+		90
+	],
+	[
+		"Chocolate Fish",
+		96
+	],
+	[
+		"Chocolate Gum",
+		100
+	],
+	[
+		"Chocolate Joy Fun Pop",
+		100
+	],
+	[
+		"Chocolate Lipstick",
+		100
+	],
+	[
+		"Chocolate Orange Easter Negg",
+		100
+	],
+	[
+		"Chocolate Peach",
+		96
+	],
+	[
+		"Chocolate Peanuts With Peas",
+		100
+	],
+	[
+		"Chocolate Roll",
+		180
+	],
+	[
+		"Chocolate Sandwich",
+		100
+	],
+	[
+		"Chocolate Shoyru Meatball",
+		91
+	],
+	[
+		"Chocolately Cheese Wedges",
+		100
+	],
+	[
+		"Chocoon",
+		100
+	],
+	[
+		"Chokato Crepe",
+		96
+	],
+	[
+		"Chokato Deluxe Aisha Cake",
+		99
+	],
+	[
+		"Chokato",
+		99
+	],
+	[
+		"Christmas Pudding",
+		90
+	],
+	[
+		"Cinnamon Eyrie Cookie",
+		99
+	],
+	[
+		"Clam Chops",
+		180
+	],
+	[
+		"Clam and Meatball Pizza",
+		90
+	],
+	[
+		"Cloud Muffin",
+		90
+	],
+	[
+		"Coco Pumpkin",
+		99
+	],
+	[
+		"Coconut Juice Bowl",
+		96
+	],
+	[
+		"Combomelon Plant",
+		180
+	],
+	[
+		"Cone-Shaped Cherry",
+		99
+	],
+	[
+		"Cone-Shaped Lemon",
+		98
+	],
+	[
+		"Cone-Shaped Orange",
+		97
+	],
+	[
+		"Cone-Shaped Strawberry",
+		96
+	],
+	[
+		"Cone-Shaped Watermelon",
+		95
+	],
+	[
+		"Coral Beef",
+		92
+	],
+	[
+		"Coral Salad",
+		180
+	],
+	[
+		"Coral Sponge Cake",
+		180
+	],
+	[
+		"Corn Pyramid",
+		94
+	],
+	[
+		"Cornupepper",
+		99
+	],
+	[
+		"Creamy Choccywhip",
+		97
+	],
+	[
+		"Creamy Chocolate Pie",
+		100
+	],
+	[
+		"Crunchy Bone Sandwich",
+		97
+	],
+	[
+		"Crunchy Chocolate Grarrl",
+		100
+	],
+	[
+		"Crunchy Snotball",
+		99
+	],
+	[
+		"Crusty Clam Surprise",
+		100
+	],
+	[
+		"Crystal Burger",
+		92
+	],
+	[
+		"Crystal Cookies",
+		93
+	],
+	[
+		"Crystal Crunch",
+		94
+	],
+	[
+		"Crystal Pop",
+		180
+	],
+	[
+		"Crystal Taco",
+		97
+	],
+	[
+		"Crystal Turkey",
+		98
+	],
+	[
+		"Cube-Shaped Cherry",
+		95
+	],
+	[
+		"Cube-Shaped Lemon",
+		94
+	],
+	[
+		"Cube-Shaped Orange",
+		92
+	],
+	[
+		"Cube-Shaped Strawberry",
+		90
+	],
+	[
+		"Dargil Meat Mince Pie",
+		99
+	],
+	[
+		"Dargil Meat",
+		180
+	],
+	[
+		"Dark Chocolate Covered Toffee",
+		90
+	],
+	[
+		"Dark Chocolate Poogle",
+		90
+	],
+	[
+		"Dark Chocolate Shoyru",
+		91
+	],
+	[
+		"Dark Chocolate Skeith",
+		92
+	],
+	[
+		"Dark Shroom",
+		99
+	],
+	[
+		"Deluxe Chia Cake",
+		90
+	],
+	[
+		"Deluxe Jacket Potato",
+		94
+	],
+	[
+		"Deluxe Strawberry Toffee Chokato",
+		99
+	],
+	[
+		"Deluxe Water Pizza",
+		97
+	],
+	[
+		"Diamond Hot Dog",
+		99
+	],
+	[
+		"Double Chocolate Jelly Beans",
+		99
+	],
+	[
+		"Double Chocolate Surprise",
+		91
+	],
+	[
+		"Double Cream Vanilla Sponge",
+		99
+	],
+	[
+		"Double Stuffed Guppy",
+		100
+	],
+	[
+		"Doughnutfruit",
+		99
+	],
+	[
+		"Dr. Backwash",
+		95
+	],
+	[
+		"Dried Blusops",
+		97
+	],
+	[
+		"Dung Slushie",
+		98
+	],
+	[
+		"Edible Tar Pizza",
+		94
+	],
+	[
+		"Egg and Tomato Sandwich",
+		99
+	],
+	[
+		"Elppa",
+		180
+	],
+	[
+		"ErgyFruit Grog",
+		100
+	],
+	[
+		"ErgyFruit Jelly Beans",
+		96
+	],
+	[
+		"ErgyFruit",
+		99
+	],
+	[
+		"Escargot",
+		180
+	],
+	[
+		"Evil Blancmange",
+		99
+	],
+	[
+		"Evil Pinanna",
+		99
+	],
+	[
+		"Extra Cheesy Cheddar Crisps",
+		93
+	],
+	[
+		"Extra Gherkin Hot Dog",
+		95
+	],
+	[
+		"Faerie Block Mallows",
+		98
+	],
+	[
+		"Faerie Chocodrop",
+		99
+	],
+	[
+		"Faerie Dreamwich",
+		99
+	],
+	[
+		"Faerie Fruit Salad",
+		99
+	],
+	[
+		"Faerie Sparklecake",
+		99
+	],
+	[
+		"Faerieland Gourmet Burger",
+		92
+	],
+	[
+		"Fiery Faerie Chicken Nuggets",
+		180
+	],
+	[
+		"Fish Flavour Ice Cream",
+		90
+	],
+	[
+		"Fishy Delight Grarrl Gobstopper",
+		99
+	],
+	[
+		"Fishy Nibbles",
+		180
+	],
+	[
+		"Fizzy Quiggle Drink",
+		180
+	],
+	[
+		"Flaming Bomberry",
+		180
+	],
+	[
+		"Flotsam Fin Soup",
+		91
+	],
+	[
+		"Fluff N Stuff Grarrl Gobstopper",
+		92
+	],
+	[
+		"Foozette",
+		180
+	],
+	[
+		"Forbidden Plunder",
+		100
+	],
+	[
+		"Four Dirt Pizza Block",
+		90
+	],
+	[
+		"Four Layer Carrot Cake",
+		99
+	],
+	[
+		"French Onion Soup",
+		99
+	],
+	[
+		"Fresh Fruit Goblet",
+		99
+	],
+	[
+		"Fresh Lobster Tail",
+		99
+	],
+	[
+		"Fresh Shark Fin",
+		180
+	],
+	[
+		"Fresh Sushi Cone",
+		98
+	],
+	[
+		"Fresh Sushi Roll",
+		97
+	],
+	[
+		"Freshly Cut Grass Slushie",
+		99
+	],
+	[
+		"Fried Suwek",
+		96
+	],
+	[
+		"Fright Pop",
+		99
+	],
+	[
+		"Frog Leg Pizza",
+		93
+	],
+	[
+		"Frosted Babaa Cookies",
+		98
+	],
+	[
+		"Frozen Fish Gel",
+		90
+	],
+	[
+		"Frozen Negg",
+		95
+	],
+	[
+		"Frozen Prawn Delight",
+		91
+	],
+	[
+		"Frozen Veggie Delight",
+		96
+	],
+	[
+		"FruitMallow",
+		180
+	],
+	[
+		"Fruity Brucicle",
+		90
+	],
+	[
+		"Fruity Faerie Lolly",
+		90
+	],
+	[
+		"Fungi Fruit",
+		180
+	],
+	[
+		"Funnydew Melon",
+		180
+	],
+	[
+		"Gargaraptor Arm",
+		94
+	],
+	[
+		"Gelupepper",
+		99
+	],
+	[
+		"Geopeppers",
+		99
+	],
+	[
+		"Ghost Marshmallows",
+		90
+	],
+	[
+		"Globlin",
+		180
+	],
+	[
+		"Gnome Shroom",
+		99
+	],
+	[
+		"Golden Caviar",
+		99
+	],
+	[
+		"Golden Juppie",
+		99
+	],
+	[
+		"Gooseberries",
+		180
+	],
+	[
+		"Gooseberry Crepe",
+		99
+	],
+	[
+		"Gorerito",
+		99
+	],
+	[
+		"Grape Jelly Brucicle",
+		91
+	],
+	[
+		"Grape Juice Carton",
+		100
+	],
+	[
+		"Grape Pop",
+		100
+	],
+	[
+		"Grapefruit Cake",
+		99
+	],
+	[
+		"Green Chyrsaberry",
+		98
+	],
+	[
+		"Green Ham",
+		96
+	],
+	[
+		"Grog Light",
+		100
+	],
+	[
+		"Gruish Melon",
+		180
+	],
+	[
+		"Grundo Toe Lint",
+		98
+	],
+	[
+		"Grundos House Special",
+		90
+	],
+	[
+		"Grundos Luxury Kebab",
+		95
+	],
+	[
+		"Gummy Amoeba",
+		180
+	],
+	[
+		"Gummy Star",
+		180
+	],
+	[
+		"Gwontek Melon",
+		98
+	],
+	[
+		"Hair Stuffed Maggot",
+		96
+	],
+	[
+		"Halloween Candy Cane",
+		99
+	],
+	[
+		"Hamarama Ice Lolly",
+		99
+	],
+	[
+		"Happy Birthday Pizza",
+		99
+	],
+	[
+		"Haunted Milk",
+		90
+	],
+	[
+		"Hazelnut Whirl",
+		96
+	],
+	[
+		"Headless Horsefish",
+		100
+	],
+	[
+		"Healthy Grass Hot Dog",
+		95
+	],
+	[
+		"Heartatoe",
+		180
+	],
+	[
+		"Hogshead",
+		100
+	],
+	[
+		"Honey Blossom",
+		99
+	],
+	[
+		"Honey Coated Hot Dog",
+		97
+	],
+	[
+		"Honey and Bacon Burger",
+		94
+	],
+	[
+		"Hot Tyrannian Pepper",
+		92
+	],
+	[
+		"Ice Draik Egg",
+		100
+	],
+	[
+		"Iced Borovan Cake",
+		180
+	],
+	[
+		"Intestines and Marinara",
+		92
+	],
+	[
+		"Iron Supplement",
+		180
+	],
+	[
+		"Island Meatloaf",
+		97
+	],
+	[
+		"Jelly Covered Greycorn",
+		90
+	],
+	[
+		"Jelly Finger",
+		99
+	],
+	[
+		"Jelly Spider Eyeball",
+		99
+	],
+	[
+		"Jolly Green Jiggling Jelly",
+		96
+	],
+	[
+		"Juicy Melon",
+		180
+	],
+	[
+		"Juppiemint Bar",
+		90
+	],
+	[
+		"Kabuggles",
+		180
+	],
+	[
+		"Kau Sundae",
+		93
+	],
+	[
+		"Keel Haul",
+		100
+	],
+	[
+		"Kelp Samosa",
+		91
+	],
+	[
+		"Koyle",
+		180
+	],
+	[
+		"Krakuberries",
+		99
+	],
+	[
+		"Krakuberry Cove",
+		100
+	],
+	[
+		"Krakuberry Grog",
+		100
+	],
+	[
+		"Land Lubber",
+		100
+	],
+	[
+		"Large Chia Cake",
+		90
+	],
+	[
+		"Lavaberry",
+		99
+	],
+	[
+		"Le Sausage",
+		94
+	],
+	[
+		"Leaf Taco",
+		100
+	],
+	[
+		"Lemaniac",
+		180
+	],
+	[
+		"Lemon Pop",
+		100
+	],
+	[
+		"Lemon Sherbert Jelly Beans",
+		90
+	],
+	[
+		"Lemon and Lime Easter Negg",
+		100
+	],
+	[
+		"Level Up Shroom",
+		93
+	],
+	[
+		"Lime Chomby Cake",
+		96
+	],
+	[
+		"Lime Juice Carton",
+		100
+	],
+	[
+		"Lime Starfish",
+		180
+	],
+	[
+		"Linked Hot Dogs",
+		99
+	],
+	[
+		"Lobster Berry Surprise",
+		96
+	],
+	[
+		"Lobsterclaw Salad",
+		180
+	],
+	[
+		"Loretta Fontaines Perfect Pizza",
+		100
+	],
+	[
+		"Luxury Cabbage Cake",
+		99
+	],
+	[
+		"Luxury Chocolate Easter Negg",
+		100
+	],
+	[
+		"Magical Apple Chia Pop",
+		99
+	],
+	[
+		"Magical Aubergine Chia Pop",
+		99
+	],
+	[
+		"Magical Avocado Chia Pop",
+		99
+	],
+	[
+		"Magical Blueberry Chia Pop",
+		99
+	],
+	[
+		"Magical Chokato Chia Pop",
+		99
+	],
+	[
+		"Magical Gooseberry Chia Pop",
+		99
+	],
+	[
+		"Magical Lemon Chia Pop",
+		99
+	],
+	[
+		"Magical Lime Chia Pop",
+		99
+	],
+	[
+		"Magical Nugget Chia Pop",
+		99
+	],
+	[
+		"Magical Peach Chia Pop",
+		99
+	],
+	[
+		"Magical Pear Chia Pop",
+		99
+	],
+	[
+		"Magical Pineapple Chia Pop",
+		99
+	],
+	[
+		"Magical Plum Chia Pop",
+		99
+	],
+	[
+		"Magical Red Starry Slushie",
+		99
+	],
+	[
+		"Magical Strawberry Brucicle",
+		100
+	],
+	[
+		"Magical Tomato Chia Pop",
+		99
+	],
+	[
+		"Man O War",
+		100
+	],
+	[
+		"Mecha Hot Dog",
+		99
+	],
+	[
+		"MechaBerries",
+		180
+	],
+	[
+		"Meerca Pie",
+		99
+	],
+	[
+		"Mega Lemon Blitz Smoothie",
+		99
+	],
+	[
+		"Mega Pipper Sandwich",
+		95
+	],
+	[
+		"Mega Power Plusshroom",
+		94
+	],
+	[
+		"Mega Salmon Sherbert Smoothie",
+		99
+	],
+	[
+		"Mega Sandwich",
+		99
+	],
+	[
+		"Mega Tuna Sandwich",
+		98
+	],
+	[
+		"Megachilli Hot Dog",
+		92
+	],
+	[
+		"Melow",
+		180
+	],
+	[
+		"Merryberry",
+		180
+	],
+	[
+		"Mighty Steakwich",
+		99
+	],
+	[
+		"Mild Burnumup",
+		94
+	],
+	[
+		"Milkyway Shake",
+		98
+	],
+	[
+		"Mini Baby Hot Dogs",
+		99
+	],
+	[
+		"Mint Chocolate Blumaroo",
+		92
+	],
+	[
+		"Mint Chocolate Chia",
+		93
+	],
+	[
+		"Mint Chocolate Easter Negg",
+		100
+	],
+	[
+		"Mint Chocolate Kacheek",
+		90
+	],
+	[
+		"Mint Chocolate Lupe",
+		91
+	],
+	[
+		"Mint Chocolate Peophin",
+		94
+	],
+	[
+		"Minty Choccywhip",
+		94
+	],
+	[
+		"Minty Eyrie Cookie",
+		99
+	],
+	[
+		"Minty Shrimp",
+		180
+	],
+	[
+		"Mocha Joy Fun Pop",
+		100
+	],
+	[
+		"Moehog Sundae",
+		90
+	],
+	[
+		"Moehog Surprise",
+		93
+	],
+	[
+		"Mouldy Cheese",
+		99
+	],
+	[
+		"Mustard and Tofu Hot Dog",
+		96
+	],
+	[
+		"Mynci Surprise Ice Cream",
+		92
+	],
+	[
+		"Nimmo Day Fruit Cake",
+		91
+	],
+	[
+		"Nurako",
+		180
+	],
+	[
+		"Nutritional Block",
+		96
+	],
+	[
+		"Odorra Pod",
+		97
+	],
+	[
+		"Olivetato",
+		99
+	],
+	[
+		"Omnipotent Onion Grarrl Gobstopper",
+		97
+	],
+	[
+		"Onion Cola",
+		93
+	],
+	[
+		"Onion and Mustard Pie",
+		99
+	],
+	[
+		"Orange Chia Cake",
+		90
+	],
+	[
+		"Orange Chocolate Scorchio",
+		90
+	],
+	[
+		"Orange Snow Puff",
+		180
+	],
+	[
+		"Our Famous Krawk Pie",
+		100
+	],
+	[
+		"Oyster Obsession",
+		100
+	],
+	[
+		"PIZZA OF DEATH",
+		99
+	],
+	[
+		"Pan Galactic Gargle Slushie",
+		99
+	],
+	[
+		"Pango Chute",
+		180
+	],
+	[
+		"Parsnip Pie",
+		90
+	],
+	[
+		"Parts on a Pizza",
+		99
+	],
+	[
+		"Patrapiller and Honey",
+		97
+	],
+	[
+		"Peach Jelly",
+		92
+	],
+	[
+		"Peachpa Stuffed Potato",
+		95
+	],
+	[
+		"Peachpa",
+		180
+	],
+	[
+		"Peachy Pizza",
+		99
+	],
+	[
+		"Peanut and Chocolate Slushie",
+		99
+	],
+	[
+		"Peppered Kersla Bug",
+		97
+	],
+	[
+		"Phear",
+		99
+	],
+	[
+		"Pickled Onion",
+		90
+	],
+	[
+		"Pinanna Paradise",
+		100
+	],
+	[
+		"Pinanna Plus",
+		99
+	],
+	[
+		"Pineapple Jelly",
+		90
+	],
+	[
+		"Pineapple Juice Carton",
+		100
+	],
+	[
+		"Pineapple Muffin",
+		90
+	],
+	[
+		"Pipper",
+		180
+	],
+	[
+		"Pizza Sandwich",
+		98
+	],
+	[
+		"Plantcake",
+		100
+	],
+	[
+		"Plum",
+		99
+	],
+	[
+		"Polka Carrot",
+		99
+	],
+	[
+		"Polka Dot Hot Dog",
+		91
+	],
+	[
+		"Poogle Biscuit",
+		92
+	],
+	[
+		"Pork Steak",
+		180
+	],
+	[
+		"Pretty Pink Easter Negg",
+		100
+	],
+	[
+		"Prime Beef and Chicken Meatballs",
+		93
+	],
+	[
+		"Prime Veggie Burger",
+		180
+	],
+	[
+		"Pumpkin Scoopings",
+		99
+	],
+	[
+		"Puntec Fruit",
+		96
+	],
+	[
+		"Purple Juppie",
+		180
+	],
+	[
+		"Purple Sardplant",
+		180
+	],
+	[
+		"Purple Spotted Shroom",
+		91
+	],
+	[
+		"Purplum",
+		180
+	],
+	[
+		"Puzzle Fruit",
+		99
+	],
+	[
+		"Pyramid Banana",
+		98
+	],
+	[
+		"Pyramid Pear",
+		97
+	],
+	[
+		"Pyramid Purpple",
+		99
+	],
+	[
+		"Pyramid Strawberry",
+		99
+	],
+	[
+		"Quiggle Pie",
+		99
+	],
+	[
+		"Radish Meringue",
+		96
+	],
+	[
+		"Radish Pie",
+		95
+	],
+	[
+		"Radish and Cheese",
+		98
+	],
+	[
+		"Rainbow Carrot",
+		99
+	],
+	[
+		"Rainbow Melt Pizza",
+		93
+	],
+	[
+		"RainbowBerry",
+		180
+	],
+	[
+		"Raptraphant Leg",
+		99
+	],
+	[
+		"Raspberry Pop",
+		100
+	],
+	[
+		"Red Juppie",
+		180
+	],
+	[
+		"Red Sardplant",
+		180
+	],
+	[
+		"Rest in Peace of Chicken",
+		94
+	],
+	[
+		"Roe Sushi",
+		99
+	],
+	[
+		"Runny Snot",
+		99
+	],
+	[
+		"Sardplant",
+		180
+	],
+	[
+		"Scabergy",
+		180
+	],
+	[
+		"Scabu",
+		180
+	],
+	[
+		"Scoop Chops",
+		180
+	],
+	[
+		"Scrampi",
+		92
+	],
+	[
+		"Sea Pineapple",
+		180
+	],
+	[
+		"Seafarers Hot Dog",
+		90
+	],
+	[
+		"Seafood Pasta Salad",
+		95
+	],
+	[
+		"Seaweed Flotsam Burger",
+		96
+	],
+	[
+		"Seaweed Sandwich",
+		91
+	],
+	[
+		"Secret Sloth Slushie",
+		97
+	],
+	[
+		"Shiver Me Shrimp",
+		100
+	],
+	[
+		"Slithering Snake Taco",
+		96
+	],
+	[
+		"Slithering Squid Surprise",
+		100
+	],
+	[
+		"Smelly Sardine Wrap",
+		98
+	],
+	[
+		"Snorkle Pudding",
+		99
+	],
+	[
+		"Snowager Ice Lolly",
+		100
+	],
+	[
+		"Snowberries",
+		180
+	],
+	[
+		"Snowberry Crepe",
+		94
+	],
+	[
+		"Snowberry Quiggle Cake",
+		92
+	],
+	[
+		"Songray",
+		99
+	],
+	[
+		"Sour Uni Cake",
+		92
+	],
+	[
+		"Sourmelon",
+		180
+	],
+	[
+		"Space Slushie",
+		96
+	],
+	[
+		"Sparkly Ice Lolly",
+		100
+	],
+	[
+		"Spironut",
+		180
+	],
+	[
+		"Spooky Flying Doughnut",
+		97
+	],
+	[
+		"Spooky Ghostbeef",
+		99
+	],
+	[
+		"Spooky Handwich",
+		94
+	],
+	[
+		"Spooky Jelly Brains",
+		180
+	],
+	[
+		"Spoooky Muffin",
+		99
+	],
+	[
+		"Sporkle Leg",
+		94
+	],
+	[
+		"Spotted Easter Negg",
+		100
+	],
+	[
+		"Spotted Pudding with Custard",
+		93
+	],
+	[
+		"Squid on a Stick",
+		100
+	],
+	[
+		"Squid",
+		94
+	],
+	[
+		"Stack It High Cake",
+		99
+	],
+	[
+		"Starberry",
+		180
+	],
+	[
+		"Starfish Pizza",
+		94
+	],
+	[
+		"Steak Surprise",
+		97
+	],
+	[
+		"Strange Pinanna",
+		99
+	],
+	[
+		"Strawberries and Cream Easter Negg",
+		100
+	],
+	[
+		"Strawberry Chia Pop",
+		91
+	],
+	[
+		"Strawberry Fondant Surprise",
+		92
+	],
+	[
+		"Strawberry Juice Carton",
+		100
+	],
+	[
+		"Strawberry Poogle Biscuit",
+		90
+	],
+	[
+		"Strawberry Salmon",
+		98
+	],
+	[
+		"Strawberry Shimmer Cake",
+		93
+	],
+	[
+		"Strawberry Skeith Biscuit",
+		93
+	],
+	[
+		"Strength Shroom",
+		97
+	],
+	[
+		"Stripey Urchin",
+		180
+	],
+	[
+		"Strong Berry",
+		99
+	],
+	[
+		"Stuffed Fish Head",
+		180
+	],
+	[
+		"Stuffed Olive Salad",
+		91
+	],
+	[
+		"Stuffed Penupe",
+		96
+	],
+	[
+		"Stuffed Sea Cucumber",
+		180
+	],
+	[
+		"Sugar Coated Leaf",
+		98
+	],
+	[
+		"Super Fast Shroom",
+		92
+	],
+	[
+		"Super Gelupepper",
+		180
+	],
+	[
+		"Super Spicy Jelly Beans",
+		95
+	],
+	[
+		"Sweet Necklace",
+		90
+	],
+	[
+		"Swill Pudding",
+		180
+	],
+	[
+		"Taco Hot Dog",
+		90
+	],
+	[
+		"Tar Slushie",
+		99
+	],
+	[
+		"Tartan Chia Pop",
+		99
+	],
+	[
+		"Tchea Grog",
+		100
+	],
+	[
+		"TeaLeef",
+		100
+	],
+	[
+		"Teal Juppie",
+		180
+	],
+	[
+		"Terry Berry",
+		95
+	],
+	[
+		"The Stuff",
+		95
+	],
+	[
+		"Thistleberry Crepe",
+		92
+	],
+	[
+		"Thistleberry Pie",
+		91
+	],
+	[
+		"Thistleberry Sandwich",
+		91
+	],
+	[
+		"Thistleberry",
+		180
+	],
+	[
+		"Thornberry",
+		99
+	],
+	[
+		"Ticklegum",
+		180
+	],
+	[
+		"Tiger Orange Slushie",
+		99
+	],
+	[
+		"Tigerbuggle Scorchio Cookie",
+		90
+	],
+	[
+		"Tigerbuggles",
+		98
+	],
+	[
+		"Tigerfruit",
+		98
+	],
+	[
+		"Tigermelon",
+		98
+	],
+	[
+		"Tigersquash Crepe",
+		98
+	],
+	[
+		"Tigersquash Mega",
+		180
+	],
+	[
+		"Tigersquash Spectacular",
+		99
+	],
+	[
+		"Tigersquash",
+		99
+	],
+	[
+		"Tobbie Fruit",
+		180
+	],
+	[
+		"Tomato Cannon Ball",
+		100
+	],
+	[
+		"Tomato Kebab",
+		99
+	],
+	[
+		"Toxic Shroom",
+		99
+	],
+	[
+		"Triple Choco-Strawberry Cake",
+		99
+	],
+	[
+		"Tropical Breeze",
+		100
+	],
+	[
+		"Twin Salad",
+		92
+	],
+	[
+		"Tyrannian Water Negg",
+		97
+	],
+	[
+		"Ugly Pinanna",
+		99
+	],
+	[
+		"Ultimate Icy Negg",
+		98
+	],
+	[
+		"Vegan Cheese",
+		180
+	],
+	[
+		"Vegetarian Sea Taco",
+		180
+	],
+	[
+		"Vein Cabbage",
+		99
+	],
+	[
+		"Vionanna Mince Pie",
+		98
+	],
+	[
+		"Vionanna",
+		180
+	],
+	[
+		"Vitamin A Tablets",
+		180
+	],
+	[
+		"Vitamin B Tablets",
+		180
+	],
+	[
+		"Vitamin C Tablets",
+		180
+	],
+	[
+		"Waffle Sandwich",
+		93
+	],
+	[
+		"Walk The Plank",
+		100
+	],
+	[
+		"Water Pizza",
+		96
+	],
+	[
+		"Watermelon Roll",
+		92
+	],
+	[
+		"White Chocolate Covered Toffee",
+		90
+	],
+	[
+		"Whole Chilli Deluxe Pizza",
+		94
+	],
+	[
+		"Whole Garden Fresh Pizza",
+		91
+	],
+	[
+		"Whole Yummy Cloud Pizza",
+		91
+	],
+	[
+		"Whomp Berries",
+		180
+	],
+	[
+		"Wing of Korbat",
+		99
+	],
+	[
+		"Wormy Slushie",
+		95
+	],
+	[
+		"Yolk Beans",
+		180
+	],
+	[
+		"Yummy Drops",
+		95
+	],
+	[
+		"Zeenana Crepe",
+		92
+	],
+	[
+		"Zeenana",
+		100
+	],
+	[
+		"Zonutuk Fruit",
+		95
+	]
 ]
