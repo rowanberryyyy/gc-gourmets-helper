@@ -4,6 +4,10 @@
         96
     ],
     [
+        "Air Faerie Mushroom",
+        96
+    ],
+    [
         "Anchovies",
         97
     ],
@@ -71,6 +75,10 @@
         "Banana Grub",
         100
     ],
+    [
+        "Banana Jelly Flotsam",
+        93
+    ],    
     [
         "Banana Split Chia Pop",
         98
@@ -396,6 +404,10 @@
         99
     ],
     [
+        "Chokato Kau Cream Cake",
+        90
+    ],
+    [
         "Christmas Pudding",
         90
     ],
@@ -560,9 +572,17 @@
         92
     ],
     [
+        "Dark Faerie Mushroom",
+        97
+    ],   
+    [
         "Dark Shroom",
         99
     ],
+    [
+        "Deluxe Acara Sundae",
+        90
+    ],    
     [
         "Deluxe Chia Cake",
         90
@@ -615,6 +635,10 @@
         "Dung Slushie",
         98
     ],
+    [
+        "Earth Faerie Mushroom",
+        97
+    ],    
     [
         "Edible Tar Pizza",
         94
@@ -679,6 +703,10 @@
         "Faerieland Gourmet Burger",
         92
     ],
+    [
+        "Fire Faerie Mushroom",
+        97
+    ],    
     [
         "Fish Flavour Ice Cream",
         90
@@ -748,6 +776,10 @@
         98
     ],
     [
+        "Frosted Rainbow Cupcake",
+        99
+    ],    
+    [
         "Frozen Fish Gel",
         90
     ],
@@ -764,6 +796,10 @@
         96
     ],
     [
+        "Fruit Juice Sack",
+        90
+    ],    
+    [
         "Fruity Brucicle",
         90
     ],
@@ -775,6 +811,10 @@
         "Gargaraptor Arm",
         94
     ],
+    [
+        "Garlicy Mushrooms",
+        90
+    ],    
     [
         "Gelupepper",
         99
@@ -839,6 +879,10 @@
         "Green Ham",
         96
     ],
+    [
+        "Grey Faerie Mushroom",
+        99
+    ],    
     [
         "Grog Light",
         100
@@ -1016,6 +1060,10 @@
         93
     ],
     [
+        "Light Faerie Mushroom",
+        98
+    ],
+    [
         "Lime Chomby Cake",
         96
     ],
@@ -1059,6 +1107,14 @@
         "Magical Avocado Chia Pop",
         99
     ],
+    [
+        "Magical Birthday Cake",
+        100
+    ],   
+    [
+        "Magical Birthday Cupcake",
+        100
+    ],     
     [
         "Magical Blueberry Chia Pop",
         99
@@ -1210,6 +1266,10 @@
     [
         "Mocha Joy Fun Pop",
         100
+    ],
+    [
+        "Moehog Lollypop",
+        90
     ],
     [
         "Moehog Sundae",
@@ -1436,13 +1496,25 @@
         98
     ],
     [
+        "Rainbow Candy Floss",
+        99
+    ],
+    [
         "Rainbow Carrot",
         99
     ],
     [
+        "Rainbow Doughnutfruit",
+        99
+    ],    
+    [
         "Rainbow Melt Pizza",
         93
     ],
+    [
+        "Rainbow Negg",
+        95
+    ],    
     [
         "Raptraphant Leg",
         99
@@ -1455,6 +1527,10 @@
         "Rest in Peace of Chicken",
         94
     ],
+    [
+        "Rock Negg",
+        90
+    ],    
     [
         "Roe Sushi",
         99
@@ -1532,9 +1608,17 @@
         99
     ],
     [
+        "Soup Faerie Mushroom",
+        98
+    ],
+    [
         "Sour Uni Cake",
         92
     ],
+    [
+        "Space Faerie Mushroom",
+        99
+    ],  
     [
         "Space Slushie",
         96
@@ -1811,6 +1895,10 @@
         "Walk The Plank",
         100
     ],
+    [
+        "Water Faerie Mushroom",
+        97
+    ],    
     [
         "Water Pizza",
         96
