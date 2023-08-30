@@ -360,6 +360,10 @@
         100
     ],
     [
+        "Chocolate Kyrii Ice Cream",
+        90
+    ],    
+    [
         "Chocolate Lipstick",
         100
     ],
@@ -638,6 +642,10 @@
     [
         "Earth Faerie Mushroom",
         97
+    ],  
+    [
+        "Edgy Soup",
+        99
     ],    
     [
         "Edible Tar Pizza",
@@ -1028,6 +1036,10 @@
         100
     ],
     [
+        "Kyrii Cream Parfait",
+        91
+    ],    
+    [
         "Land Lubber",
         100
     ],
@@ -1272,6 +1284,10 @@
         99
     ],
     [
+        "Mint Kyrii Ice Cream",
+        95
+    ],    
+    [
         "Minty Meerca Mini Cake",
         90
     ],    
@@ -1456,6 +1472,10 @@
         100
     ],
     [
+        "Pride Soup",
+        90
+    ],    
+    [
         "Prime Beef and Chicken Meatballs",
         93
     ],
@@ -1627,6 +1647,14 @@
         "Soup Faerie Mushroom",
         98
     ],
+    [
+        "Soup Faerie Soup",
+        90
+    ],  
+    [
+        "Soup Soup",
+        99
+    ],    
     [
         "Sour Uni Cake",
         92
