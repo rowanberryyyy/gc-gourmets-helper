@@ -164,6 +164,10 @@
         100
     ],
     [
+        "Blueberry Nova Pop",
+        90
+    ],    
+    [
         "Blumaroo Tail Salad Extravaganza",
         94
     ],
@@ -610,7 +614,11 @@
     [
         "Dark Faerie Mushroom",
         97
-    ],   
+    ],  
+    [
+        "Dark Nova Pop",
+        98
+    ],    
     [
         "Dark Shroom",
         99
@@ -870,6 +878,10 @@
     [
         "Garlicy Mushrooms",
         90
+    ], 
+    [
+        "Gelert Gelt",
+        100
     ],    
     [
         "Gelupepper",
@@ -1120,6 +1132,10 @@
         94
     ],
     [
+        "Lemon Nova Pop",
+        90
+    ],    
+    [
         "Lemon Pop",
         100
     ],
@@ -1147,6 +1163,10 @@
         "Lime Juice Carton",
         100
     ],
+    [
+        "Lime Nova Pop",
+        92
+    ],    
     [
         "Linked Hot Dogs",
         99
@@ -1195,6 +1215,10 @@
         "Magical Blueberry Chia Pop",
         99
     ],
+    [
+        "Magical Cherry Chia Pop",
+        99
+    ],    
     [
         "Magical Chokato Chia Pop",
         99
@@ -1672,6 +1696,10 @@
         99
     ],
     [
+        "Raspberry and Vanilla Nova",
+        90
+    ],    
+    [
         "Raspberry Pop",
         100
     ],
@@ -1920,6 +1948,14 @@
         90
     ],
     [
+        "Sufganiyah",
+        100
+    ],  
+    [
+        "Sufganiyot Plate",
+        100
+    ],    
+    [
         "Sugar Coated Leaf",
         98
     ],
@@ -2060,6 +2096,10 @@
         98
     ],
     [
+        "Ultra Nova Pop",
+        99
+    ]    
+    [
         "Vein Cabbage",
         99
     ],
@@ -2092,6 +2132,10 @@
         90
     ],
     [
+        "White Chocolate Nova",
+        92
+    ],    
+    [
         "Whole Chilli Deluxe Pizza",
         94
     ],
@@ -2114,6 +2158,10 @@
     [
         "Witchy Pumpkin",
         98
+    ],  
+    [
+        "Wocky Tacos",
+        95
     ],    
     [
         "Wormy Slushie",
