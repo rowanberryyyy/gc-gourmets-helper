@@ -78,7 +78,7 @@
     [
         "Banana Jelly Flotsam",
         93
-    ],    
+    ],
     [
         "Banana Split Chia Pop",
         98
@@ -160,13 +160,13 @@
         99
     ],
     [
+        "Blueberry Nova Pop",
+        90
+    ],
+    [
         "Blueberry and Oyster Ice Cream",
         100
     ],
-    [
-        "Blueberry Nova Pop",
-        90
-    ],    
     [
         "Blumaroo Tail Salad Extravaganza",
         94
@@ -242,7 +242,7 @@
     [
         "Caramel Chia Parfait",
         90
-    ],    
+    ],
     [
         "Caramel Poogle Biscuit",
         91
@@ -296,6 +296,14 @@
         99
     ],
     [
+        "Chia Yummy Ketchup",
+        99
+    ],
+    [
+        "Chia Yummy Mustard",
+        99
+    ],
+    [
         "Chilli Salmon Souffle",
         94
     ],
@@ -314,7 +322,7 @@
     [
         "Choco Spritz",
         100
-    ],    
+    ],
     [
         "Chococherry Blumaroo Ears",
         100
@@ -374,7 +382,7 @@
     [
         "Chocolate Kyrii Ice Cream",
         90
-    ],    
+    ],
     [
         "Chocolate Lipstick",
         100
@@ -416,17 +424,17 @@
         99
     ],
     [
-        "Chokato",
-        99
-    ],
-    [
         "Chokato Kau Cream Cake",
         90
     ],
     [
         "Chokato Skeith Iced Bun",
         90
-    ],    
+    ],
+    [
+        "Chokato",
+        99
+    ],
     [
         "Christmas Pudding",
         90
@@ -445,6 +453,10 @@
     ],
     [
         "Cloud Muffin",
+        90
+    ],
+    [
+        "Cloudberry",
         90
     ],
     [
@@ -478,7 +490,7 @@
     [
         "Cone-Shaped Pumpkin",
         98
-    ],    
+    ],
     [
         "Cone-Shaped Strawberry",
         96
@@ -507,10 +519,6 @@
         "Cornupepper",
         99
     ],
-    [
-        "Cloudberry",
-        90
-    ],    
     [
         "Cracked Keno Egg",
         90
@@ -578,7 +586,7 @@
     [
         "Cube-Shaped Pumpkin",
         92
-    ],    
+    ],
     [
         "Cube-Shaped Strawberry",
         90
@@ -586,7 +594,7 @@
     [
         "Cushberry",
         94
-    ],    
+    ],
     [
         "Dargil Meat Mince Pie",
         99
@@ -594,7 +602,7 @@
     [
         "Darigan Draik Egg",
         99
-    ],    
+    ],
     [
         "Dark Chocolate Covered Toffee",
         90
@@ -614,11 +622,11 @@
     [
         "Dark Faerie Mushroom",
         97
-    ],  
+    ],
     [
         "Dark Nova Pop",
         98
-    ],    
+    ],
     [
         "Dark Shroom",
         99
@@ -626,7 +634,7 @@
     [
         "Deluxe Acara Sundae",
         90
-    ],    
+    ],
     [
         "Deluxe Chia Cake",
         90
@@ -682,11 +690,11 @@
     [
         "Earth Faerie Mushroom",
         97
-    ],  
+    ],
     [
         "Edgy Soup",
         99
-    ],    
+    ],
     [
         "Edible Tar Pizza",
         94
@@ -720,17 +728,17 @@
         99
     ],
     [
-        "Evil Taco",
-        95
-    ],    
-    [
         "Evil Shroom",
         90
-    ],      
+    ],
+    [
+        "Evil Taco",
+        95
+    ],
     [
         "Exotic Plant",
         96
-    ],    
+    ],
     [
         "Extra Cheesy Cheddar Crisps",
         93
@@ -766,7 +774,7 @@
     [
         "Fire Faerie Mushroom",
         97
-    ],    
+    ],
     [
         "Fish Flavour Ice Cream",
         90
@@ -838,7 +846,7 @@
     [
         "Frosted Rainbow Cupcake",
         99
-    ],    
+    ],
     [
         "Frozen Fish Gel",
         90
@@ -858,7 +866,7 @@
     [
         "Fruit Juice Sack",
         90
-    ],    
+    ],
     [
         "Fruity Brucicle",
         90
@@ -870,7 +878,7 @@
     [
         "Galaxyberry",
         92
-    ],    
+    ],
     [
         "Gargaraptor Arm",
         94
@@ -878,11 +886,11 @@
     [
         "Garlicy Mushrooms",
         90
-    ], 
+    ],
     [
         "Gelert Gelt",
         100
-    ],    
+    ],
     [
         "Gelupepper",
         99
@@ -950,7 +958,7 @@
     [
         "Grey Faerie Mushroom",
         99
-    ],    
+    ],
     [
         "Grog Light",
         100
@@ -990,7 +998,7 @@
     [
         "Halloween Draik Egg",
         100
-    ],    
+    ],
     [
         "Hamarama Ice Lolly",
         99
@@ -1006,7 +1014,7 @@
     [
         "Hasee Puff Cereal",
         90
-    ],    
+    ],
     [
         "Haunted Milk",
         90
@@ -1082,7 +1090,7 @@
     [
         "Kau Sundae",
         93
-    ],  
+    ],
     [
         "Keel Haul",
         100
@@ -1094,7 +1102,7 @@
     [
         "Korbat Grave Cake",
         90
-    ],    
+    ],
     [
         "Krakuberries",
         99
@@ -1110,7 +1118,7 @@
     [
         "Kyrii Cream Parfait",
         91
-    ],    
+    ],
     [
         "Land Lubber",
         100
@@ -1124,17 +1132,17 @@
         99
     ],
     [
-        "Leberry",
-        95
-    ],    
-    [
         "Le Sausage",
         94
     ],
     [
+        "Leberry",
+        95
+    ],
+    [
         "Lemon Nova Pop",
         90
-    ],    
+    ],
     [
         "Lemon Pop",
         100
@@ -1166,7 +1174,7 @@
     [
         "Lime Nova Pop",
         92
-    ],    
+    ],
     [
         "Linked Hot Dogs",
         99
@@ -1192,17 +1200,21 @@
         100
     ],
     [
+        "MSP Petpet Kibble",
+        100
+    ],
+    [
         "Magical Apple Chia Pop",
+        99
+    ],
+    [
+        "Magical Asparagus Chia Pop",
         99
     ],
     [
         "Magical Aubergine Chia Pop",
         99
     ],
-     [
-        "Magical Asparagus Chia Pop",
-        99
-    ],   
     [
         "Magical Avocado Chia Pop",
         99
@@ -1210,19 +1222,23 @@
     [
         "Magical Birthday Cake",
         100
-    ],   
+    ],
     [
         "Magical Birthday Cupcake",
         100
-    ],     
+    ],
     [
         "Magical Blueberry Chia Pop",
         99
     ],
     [
+        "Magical Carrot Chia Pop",
+        99
+    ],
+    [
         "Magical Cherry Chia Pop",
         99
-    ],    
+    ],
     [
         "Magical Chokato Chia Pop",
         99
@@ -1230,17 +1246,17 @@
     [
         "Magical Corn Chia Pop",
         99
-    ],    
+    ],
     [
         "Magical Dragonfruit Chia Pop",
         99
-    ],  
-    [
-        "Magical Grape Chia Pop",
-        99
-    ],    
+    ],
     [
         "Magical Gooseberry Chia Pop",
+        99
+    ],
+    [
+        "Magical Grape Chia Pop",
         99
     ],
     [
@@ -1258,7 +1274,7 @@
     [
         "Magical Orange Chia Pop",
         99
-    ],    
+    ],
     [
         "Magical Peach Chia Pop",
         99
@@ -1299,14 +1315,14 @@
         "MechaBerries",
         99
     ],
-     [
+    [
         "Meerca Apertif",
         96
-    ],   
-     [
+    ],
+    [
         "Meerca Bolognese",
         91
-    ],    
+    ],
     [
         "Meerca Pie",
         99
@@ -1318,7 +1334,7 @@
     [
         "Mega Manoroot Sandwich",
         95
-    ],   
+    ],
     [
         "Mega Pipper Sandwich",
         95
@@ -1346,7 +1362,7 @@
     [
         "Meowing Pumpkin",
         97
-    ],    
+    ],
     [
         "Mighty Steakwich",
         99
@@ -1366,7 +1382,7 @@
     [
         "Minpumpberry",
         95
-    ],    
+    ],
     [
         "Mint Chocolate Blumaroo",
         92
@@ -1374,10 +1390,6 @@
     [
         "Mint Chocolate Chia",
         93
-    ],
-    [
-        "Mint Chocolate Springtime Negg",
-        100
     ],
     [
         "Mint Chocolate Kacheek",
@@ -1392,6 +1404,14 @@
         94
     ],
     [
+        "Mint Chocolate Springtime Negg",
+        100
+    ],
+    [
+        "Mint Kyrii Ice Cream",
+        95
+    ],
+    [
         "Minty Choccywhip",
         94
     ],
@@ -1400,13 +1420,9 @@
         99
     ],
     [
-        "Mint Kyrii Ice Cream",
-        95
-    ],    
-    [
         "Minty Meerca Mini Cake",
         90
-    ],    
+    ],
     [
         "Minty Shrimp",
         91
@@ -1430,15 +1446,11 @@
     [
         "Molten Frosting Cake Slice",
         91
-    ],    
+    ],
     [
         "Mouldy Cheese",
         99
     ],
-    [
-        "MSP Petpet Kibble",
-        100
-    ],    
     [
         "Murky Green",
         99
@@ -1458,7 +1470,7 @@
     [
         "Noil Candy Floss",
         91
-    ],    
+    ],
     [
         "Nugget Chia Nuggets",
         95
@@ -1498,7 +1510,7 @@
     [
         "Orswirberry",
         91
-    ],    
+    ],
     [
         "Our Famous Krawk Pie",
         100
@@ -1524,13 +1536,13 @@
         99
     ],
     [
+        "Patchberry",
+        93
+    ],
+    [
         "Patrapiller and Honey",
         97
     ],
-    [
-        "Patchberry",
-        93
-    ],    
     [
         "Peach Jelly",
         92
@@ -1554,7 +1566,7 @@
     [
         "Petpet Crackers",
         92
-    ],    
+    ],
     [
         "Phear",
         99
@@ -1614,7 +1626,7 @@
     [
         "Pride Soup",
         90
-    ],    
+    ],
     [
         "Prime Beef and Chicken Meatballs",
         93
@@ -1622,11 +1634,11 @@
     [
         "Pteri Seed Cake",
         93
-    ],   
+    ],
     [
         "Pumpkin King",
         99
-    ],    
+    ],
     [
         "Pumpkin Scoopings",
         99
@@ -1690,7 +1702,7 @@
     [
         "Rainbow Doughnutfruit",
         99
-    ],    
+    ],
     [
         "Rainbow Melt Pizza",
         93
@@ -1698,22 +1710,22 @@
     [
         "Rainbow Negg",
         95
-    ],    
+    ],
     [
         "Rainbow Taco",
         90
-    ],       
+    ],
     [
         "Raptraphant Leg",
         99
     ],
     [
-        "Raspberry and Vanilla Nova",
-        90
-    ],    
-    [
         "Raspberry Pop",
         100
+    ],
+    [
+        "Raspberry and Vanilla Nova",
+        90
     ],
     [
         "Rest in Peace of Chicken",
@@ -1722,7 +1734,7 @@
     [
         "Rock Negg",
         90
-    ],    
+    ],
     [
         "Roe Sushi",
         99
@@ -1766,7 +1778,7 @@
     [
         "Shadow Slushie",
         99
-    ],    
+    ],
     [
         "Shiver Me Shrimp",
         100
@@ -1810,11 +1822,11 @@
     [
         "Soup Faerie Soup",
         90
-    ],  
+    ],
     [
         "Soup Soup",
         99
-    ],    
+    ],
     [
         "Sour Uni Cake",
         92
@@ -1822,7 +1834,7 @@
     [
         "Space Faerie Mushroom",
         99
-    ],  
+    ],
     [
         "Space Slushie",
         96
@@ -1830,15 +1842,15 @@
     [
         "Sparkling Apple Juice",
         98
-    ],   
+    ],
     [
         "Sparkling Grape Juice",
         97
-    ],    
+    ],
     [
         "Sparkling Raspberry Juice",
         96
-    ],    
+    ],
     [
         "Sparkly Ice Lolly",
         100
@@ -1872,12 +1884,12 @@
         94
     ],
     [
-        "Spotted Springtime Negg",
-        100
-    ],
-    [
         "Spotted Pudding with Custard",
         93
+    ],
+    [
+        "Spotted Springtime Negg",
+        100
     ],
     [
         "Squid on a Stick",
@@ -1962,11 +1974,11 @@
     [
         "Sufganiyah",
         100
-    ],  
+    ],
     [
         "Sufganiyot Plate",
         100
-    ],    
+    ],
     [
         "Sugar Coated Leaf",
         98
@@ -2078,7 +2090,7 @@
     [
         "Toothy Pumpkin",
         90
-    ],   
+    ],
     [
         "Toxic Shroom",
         99
@@ -2110,7 +2122,7 @@
     [
         "Ultra Nova Pop",
         99
-    ],    
+    ],
     [
         "Vein Cabbage",
         99
@@ -2130,7 +2142,7 @@
     [
         "Water Faerie Mushroom",
         97
-    ],    
+    ],
     [
         "Water Pizza",
         96
@@ -2146,7 +2158,7 @@
     [
         "White Chocolate Nova",
         92
-    ],    
+    ],
     [
         "Whole Chilli Deluxe Pizza",
         94
@@ -2170,11 +2182,11 @@
     [
         "Witchy Pumpkin",
         98
-    ],  
+    ],
     [
         "Wocky Tacos",
         95
-    ],    
+    ],
     [
         "Wormy Slushie",
         95
@@ -2182,14 +2194,6 @@
     [
         "Yolk Beans",
         93
-    ],
-    [
-        "Chia Yummy Ketchup",
-        99
-    ],
-    [
-        "Chia Yummy Mustard",
-        99
     ],
     [
         "Yummy Drops",
