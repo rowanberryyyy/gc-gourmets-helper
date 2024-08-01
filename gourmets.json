@@ -159,7 +159,11 @@
         "Bludberry",
         99
     ],
-     [
+    [
+        "Blue Aisha O",
+        99
+    ],
+    [
         "Blue Doughnutfruit",
         99
     ],
@@ -335,7 +339,7 @@
         "Charcoal Jelly Beans",
         90
     ],
-     [
+    [
         "Checkered Doughnutfruit",
         99
     ],
@@ -919,7 +923,7 @@
         "Faerieland Gourmet Burger",
         92
     ],
-     [
+    [
         "Fiery Doughnutfruit",
         99
     ],
@@ -927,7 +931,7 @@
         "Fire Faerie Mushroom",
         97
     ],
-     [
+    [
         "Fish Doughnutfruit",
         100
     ],
@@ -1080,6 +1084,10 @@
         90
     ],
     [
+        "Glowing Aisha O",
+        99
+    ],
+    [
         "Gnome Shroom",
         99
     ],
@@ -1095,7 +1103,7 @@
         "Golden Caviar",
         99
     ],
-     [
+    [
         "Golden Doughnutfruit",
         99
     ],
@@ -1131,7 +1139,11 @@
         "Green Chyrsaberry",
         98
     ],
-     [
+    [
+        "Green Aisha O",
+        98
+    ],
+    [
         "Green Doughnutfruit",
         99
     ],
@@ -1255,7 +1267,7 @@
         "Iced Tuskaninny Cake",
         91
     ],
-     [
+    [
         "Icy Doughnutfruit",
         99
     ],
@@ -1780,6 +1792,10 @@
         99
     ],
     [
+        "Oops! All Aisha Cereal",
+        100
+    ],
+    [
         "Orange Chia Cake",
         90
     ],
@@ -1892,6 +1908,10 @@
         90
     ],
     [
+        "Pink Aisha O",
+        98
+    ],
+    [
         "Pizza Sandwich",
         98
     ],
@@ -1902,6 +1922,10 @@
     [
         "Plum",
         99
+    ],
+    [
+        "Plushie Aisha O",
+        100
     ],
     [
         "Polarchuck Shaved Ice",
@@ -1947,7 +1971,11 @@
         "Puntec Fruit",
         96
     ],
-     [
+    [
+        "Purple Aisha O",
+        98
+    ],
+    [
         "Purple Doughnutfruit",
         99
     ],
@@ -2048,6 +2076,10 @@
         90
     ],
     [
+        "Red Aisha O",
+        98
+    ],
+    [
         "Red Buzz Lolly",
         90
     ],
@@ -2119,7 +2151,7 @@
         "Shiver Me Shrimp",
         100
     ],
-     [
+    [
         "Silver Doughnutfruit",
         99
     ],
@@ -2207,7 +2239,15 @@
         "Spironut",
         99
     ],
-     [
+    [
+        "Split Aisha O",
+        99
+    ],
+    [
+        "Sponge Aisha O",
+        100
+    ],
+    [
         "Sponge Doughnutfruit",
         99
     ],
@@ -2595,7 +2635,11 @@
         "Wormy Slushie",
         95
     ],
-     [
+    [
+        "Yellow Aisha O",
+        98
+    ],
+    [
         "Yellow Doughnutfruit",
         99
     ],
