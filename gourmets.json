@@ -96,6 +96,10 @@
         93
     ],
     [
+        "Bacalhau",
+        100
+    ],
+    [
         "Bacon Belly Buster",
         99
     ],
@@ -157,6 +161,10 @@
     ],
     [
         "Bilge Rat Madeira",
+        100
+    ],
+    [
+        "Biscoito (ou Bolacha)",
         100
     ],
     [
@@ -278,6 +286,10 @@
     [
         "Bread Wreath",
         99
+    ],
+    [
+        "Brigadeiro",
+        100
     ],
     [
         "Broccoli Kebab",
@@ -452,6 +464,10 @@
         94
     ],
     [
+        "Chimarrão",
+        100
+    ],
+    [
         "Chip Butty Pizza",
         94
     ],
@@ -510,6 +526,10 @@
     [
         "Chocolate Coated Tangy Cheese",
         97
+    ],
+    [
+        "Chocolate com Pimenta",
+        100
     ],
     [
         "Chocolate Covered Toffee",
@@ -577,6 +597,10 @@
     ],
     [
         "Chocoon",
+        100
+    ],
+    [
+        "Chocotone",
         100
     ],
     [
@@ -1017,6 +1041,10 @@
     ],
     [
         "Fall Painted Pumpkin",
+        100
+    ],
+    [
+        "Feijoada de Snorkle",
         100
     ],
     [
@@ -1896,6 +1924,10 @@
         92
     ],
     [
+        "Neggxinha",
+        100
+    ],
+    [
         "Neotruffle",
         99
     ],
@@ -1976,12 +2008,28 @@
         99
     ],
     [
+        "Pão de Açúcar",
+        100
+    ],
+    [
+        "Pão de Queijo",
+        100
+    ],
+    [
         "Parsnip Pie",
         90
     ],
     [
         "Parts on a Pizza",
         99
+    ],
+    [
+        "Pastel com Guaraná",
+        100
+    ],
+    [
+        "Pastel Pastel",
+        100
     ],
     [
         "Patchberry",
@@ -2260,8 +2308,28 @@
         90
     ],
     [
+        "Rapadura",
+        100
+    ],
+    [
         "Raptraphant Leg",
         99
+    ],
+    [
+        "Raspadinha de Açaí",
+        100
+    ],
+    [
+        "Raspadinha de Acerola",
+        100
+    ],
+    [
+        "Raspadinha de Goiaba",
+        100
+    ],
+    [
+        "Raspadinha de Maracujá",
+        100
     ],
     [
         "Raspberry Pop",
@@ -2642,6 +2710,10 @@
     [
         "Taco Hot Dog",
         90
+    ],
+    [
+        "Tapioca",
+        100
     ],
     [
         "Tar Slushie",
